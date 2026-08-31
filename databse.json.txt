@@ -1,613 +1,634 @@
 [
   {
-    "focusTitle": "Settimana 1: Rotazione Classica Mediterranea",
+    "focusTitle": "Settimana 1: Ciclo Base Atleta & Ricette Fit",
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Proteico d'Autore",
+            "ingredients": [
+              "Avena in fiocchi macinati (60g)",
+              "Albumi d'uovo (150ml)",
+              "Yogurt greco 0% (100g)",
+              "Cioccolato fondente 85% (20g)",
+              "Miele o sciroppo d'acero puro (10g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta e Diaframma di Manzo",
+            "ingredients": [
+              "Pasta di semola di grano duro (100g)",
+              "Diaframma di manzo tagliato controfibra (180g)",
+              "Olio extravergine d'oliva (15g)",
+              "Pomodorini freschi e basilico"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Budino Proteico Fit ai Frutti di Bosco",
+            "ingredients": [
+              "Yogurt greco 0% (200g)",
+              "Proteine in polvere whey gusto vaniglia (25g)",
+              "Frutti di bosco surgelati (80g)",
+              "Granella di mandorle (10g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Maiale con Chimichurri e Patate",
+            "ingredients": [
+              "Lombo di maiale a fette (200g)",
+              "Chimichurri fatto in casa con paprika e prezzemolo",
+              "Patate al forno (250g)",
+              "Olio extravergine d'oliva (10g)"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
+          {
+            "slot": "Colazione",
+            "title": "Tortino Fit al Forno Cacao e Mandorle",
+            "ingredients": [
+              "Farina d'avena (50g)",
+              "Cacao amaro in polvere (15g)",
+              "Uovo intero (1)",
+              "Latte parzialmente scremato (80ml)",
+              "Burro di mandorle 100% (15g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Riso Basmati con Petto di Pollo Speziato",
+            "ingredients": [
+              "Riso basmati (100g)",
+              "Petto di pollo a cubetti (200g)",
+              "Peperoni e cipolla stufati",
+              "Olio extravergine d'oliva (15g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Bowl di Avena Fredda con Yogurt e Cioccolato",
+            "ingredients": [
+              "Avena istantanea (50g)",
+              "Yogurt bianco magro (150g)",
+              "Crema di arachidi 100% (20g)",
+              "Scaglie di cioccolato fondente (15g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Tagliata di Manzo con Verdure Grigliate",
+            "ingredients": [
+              "Filetto o scamone di manzo (220g)",
+              "Zucchine e melanzane grigliate (250g)",
+              "Olio extravergine d'oliva (15g)",
+              "Pane casereccio (50g)"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
+          {
+            "slot": "Colazione",
+            "title": "Porridge Cremoso Proteico alla Vaniglia",
+            "ingredients": [
+              "Fiocchi d'avena (60g)",
+              "Latte o bevanda vegetale (200ml)",
+              "Proteine in polvere whey (25g)",
+              "Cannella in polvere q.b.",
+              "Mirtilli freschi (50g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Quesadilla Proteica di Manzo",
+            "ingredients": [
+              "Tortillas di grano o mais (2)",
+              "Carne macinata magra di manzo (180g)",
+              "Formaggio light grattugiato (40g)",
+              "Salsa piccante o guacamole casalingo"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Plumcake Fit Proteico allo Yogurt",
+            "ingredients": [
+              "Farina d'avena o riso (50g)",
+              "Albume d'uovo (100ml)",
+              "Yogurt greco (50g)",
+              "Gocce di cioccolato fondente (15g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Trancio di Salmone al Forno con Patate",
+            "ingredients": [
+              "Filetto di salmone fresco (200g)",
+              "Patate novelle al forno (200g)",
+              "Olio extravergine d'oliva (10g)",
+              "Insalata verde mista con limone"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
+          {
+            "slot": "Colazione",
+            "title": "Waffle Fit Proteici con Cioccolato",
+            "ingredients": [
+              "Farina d'avena (60g)",
+              "Uovo intero (1)",
+              "Albume (50ml)",
+              "Lievito per dolci (un cucchiaino)",
+              "Crema spalmabile proteica o fondente (15g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta Integrale al ragù di Manzo",
+            "ingredients": [
+              "Pasta integrale (100g)",
+              "Macinato scelto di manzo (160g)",
+              "Passata di pomodoro (150g)",
+              "Olio extravergine d'oliva (15g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Crema di Riso e Whey al Cacao",
+            "ingredients": [
+              "Crema di riso istantanea (50g)",
+              "Acqua o latte caldo (250ml)",
+              "Proteine whey al cioccolato (30g)",
+              "Mandorle tostate spezzettate (15g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Pan Pizza ad Alta Idratazione (Specialità)",
+            "ingredients": [
+              "Farina Molino Vigevano Vesuvio (180g)",
+              "Mozzatura fior di latte o vegan (100g)",
+              "Passata di pomodoro condita (80g)",
+              "Olio extravergine d'oliva (15g)"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
+          {
+            "slot": "Colazione",
+            "title": "Coppa Energetica Avena e Ricotta",
+            "ingredients": [
+              "Avena in fiocchi (50g)",
+              "Ricotta fresca vaccina (100g)",
+              "Miele (15g)",
+              "Noci in gherigli (15g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Petto di Pollo alla Piastra con Riso",
+            "ingredients": [
+              "Petto di pollo marinato al limone (200g)",
+              "Riso parboiled (100g)",
+              "Olio extravergine d'oliva (15g)",
+              "Verdure miste al vapore"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Mug Cake Fit al Cioccolato Fondente",
+            "ingredients": [
+              "Farina d'avena (40g)",
+              "Cacao amaro (10g)",
+              "Albume (60ml)",
+              "Latte (30ml)",
+              "Un quadratino di cioccolato fondente al centro (10g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Bistecca di Maiale ai Ferri con Insalata",
+            "ingredients": [
+              "Bistecca di maiale magra (200g)",
+              "Olio extravergine d'oliva (15g)",
+              "Pane di semola (60g)",
+              "Insalata iceberg e pomodori"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Morbido con Yogurt e Frutta",
+            "ingredients": [
+              "Farina d'avena (55g)",
+              "Albumi (140ml)",
+              "Yogurt greco per farcire (80g)",
+              "Fragole o mirtilli freschi (60g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Gnocchi di Patate fatti in casa al Sugo",
+            "ingredients": [
+              "Gnocchi freschi di patate (160g)",
+              "Macinato di manzo magro (120g)",
+              "Salsa di pomodoro fresco (100g)",
+              "Olio evo (10g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Shake Proteico ad Alto Potere Saziante",
+            "ingredients": [
+              "Proteine in polvere (30g)",
+              "Latte parzialmente scremato (250ml)",
+              "Burro d'arachidi (15g)",
+              "Ghiaccio q.b."
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Trancio di Tonno alla Griglia con Patate",
+            "ingredients": [
+              "Trancio di tonno fresco (200g)",
+              "Patate lesse o al forno (220g)",
+              "Olio evo (15g)",
+              "Prezzemolo e scorza di limone"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
+          {
+            "slot": "Colazione",
+            "title": "French Toast Fit Proteico",
+            "ingredients": [
+              "Pane in cassetta integrale o di segale (2 fette)",
+              "Albume d'uovo (80ml)",
+              "Cannella e dolcificante q.b.",
+              "Sciroppo d'acero zero o miele (15g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Bowl di Riso, Manzo e Avocado",
+            "ingredients": [
+              "Riso basmati cotto (100g a crudo)",
+              "Straccetti di manzo saltati (180g)",
+              "Avocado fresco (50g)",
+              "Salsa di soia a ridotto contenuto di sodio (10g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Tortino in Tazza Proteico alla Vaniglia",
+            "ingredients": [
+              "Farina di riso o avena (45g)",
+              "Proteine whey vaniglia (20g)",
+              "Yogurt greco (40g)",
+              "Latte (40ml)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Arrosto di Lombo di Maiale con Verdure",
+            "ingredients": [
+              "Lombo di maiale al forno (200g)",
+              "Carote e finocchi al forno (250g)",
+              "Olio extravergine d'oliva (15g)",
+              "Pane casereccio (50g)"
+            ]
+          }
         ]
       }
     ]
   },
   {
-    "focusTitle": "Settimana 2: Mix Proteico & Fusion Asiatica",
+    "focusTitle": "Settimana 2: Ricette Avanzate & Variazioni Golose",
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Ciococco, Avena e Mandorle",
+            "ingredients": [
+              "Farina d'avena aromatizzata al cioccolato (60g)",
+              "Albumi (150ml)",
+              "Crema di mandorle bianca (15g)",
+              "Cioccolato fondente 85% (15g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta al Ragu Bianco di Maiale e Rosmarino",
+            "ingredients": [
+              "Pasta di semola (100g)",
+              "Macinato magro di maiale (180g)",
+              "Rosmarino, aglio e vino bianco per sfumare",
+              "Olio evo (15g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Budino Proteico Light al Caffè",
+            "ingredients": [
+              "Yogurt greco 0% (200g)",
+              "Caffè espresso zuccherato o amaro (1 tazzina)",
+              "Proteine in polvere whey gusto caffè o neutre (25g)",
+              "Cioccolato fondente grattugiato (10g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Tagliata di Diaframma con Chimichurri",
+            "ingredients": [
+              "Diaframma di manzo (200g)",
+              "Chimichurri fresco con prezzemolo, aglio e paprika",
+              "Verdure grigliate miste (250g)",
+              "Olio evo (15g)"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
+          {
+            "slot": "Colazione",
+            "title": "Porridge Caldo e Cremoso con Burro d'Arachidi",
+            "ingredients": [
+              "Fiocchi d'avena (60g)",
+              "Latte parzialmente scremato (220ml)",
+              "Burro d'arachidi 100% (20g)",
+              "Banana a fettine (80g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Riso Saltato con Pollo e Verdure Orientali",
+            "ingredients": [
+              "Riso basmati (100g)",
+              "Petto di pollo a striscioline (200g)",
+              "Mix di verdure (zucchine, carote, germogli di soia) (150g)",
+              "Olio di sesamo o evo (15g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Muffin Fit al Cacao Senza Burro",
+            "ingredients": [
+              "Farina d'avena (50g)",
+              "Cacao amaro (15g)",
+              "Albume (100ml)",
+              "Yogurt magro (50g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Filetto di Maiale in Crosta di Spezie",
+            "ingredients": [
+              "Filetto di maiale (200g)",
+              "Patate dolci al forno (220g)",
+              "Olio evo (15g)",
+              "Insalata verde fresca"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake di Riso e Albume con Frutti di Bosco",
+            "ingredients": [
+              "Farina di riso (60g)",
+              "Albumi (150ml)",
+              "Miele (15g)",
+              "Frutti di bosco freschi (50g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Gulasch Ungherese Fit con Polenta o Patate",
+            "ingredients": [
+              "Carne di manzo magra a bocconcini (200g)",
+              "Paprika dolce e affumicata abbondante",
+              "Cipolle e passata di pomodoro (100g)",
+              "Patate lesse (200g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Coppa Fresca Yogurt, Whey e Mandorle",
+            "ingredients": [
+              "Yogurt greco 0% (200g)",
+              "Proteine whey gusto biscotto o vaniglia (25g)",
+              "Mandorle pelate (15g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Burger di Manzo Fatto in Casa con Pane",
+            "ingredients": [
+              "Carne macinata scelta di manzo (200g)",
+              "Pane per burger artigianale (1 pz)",
+              "Insalata, pomodoro e cetrioli",
+              "Olio evo (10g)"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
+          {
+            "slot": "Colazione",
+            "title": "Tortino Fit al Forno con Mele e Cannella",
+            "ingredients": [
+              "Farina d'avena (55g)",
+              "Mela grattugiata nell'impasto (80g)",
+              "Uovo intero (1)",
+              "Cannella e lievito",
+              "Gocce di cioccolato fondente (10g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta con Ragù Classico di Manzo e Parmigiano",
+            "ingredients": [
+              "Pasta di semola (100g)",
+              "Macinato magro di manzo (160g)",
+              "Pomodoro pelato (150g)",
+              "Parmigiano Reggiano grattugiato (15g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Crema Budino di Riso e Cacao",
+            "ingredients": [
+              "Crema di riso istantanea (50g)",
+              "Cacao amaro (10g)",
+              "Proteine whey (25g)",
+              "Acqua o latte caldo (250ml)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Pizza Fatta in Casa ad Alta Idratazione",
+            "ingredients": [
+              "Farina Molino Vigevano Vesuvio (180g)",
+              "Mozzarella fior di latte (100g)",
+              "Pomodoro pelato condito (90g)",
+              "Olio extravergine d'oliva (15g)"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
+          {
+            "slot": "Colazione",
+            "title": "Waffle Dolce alla Vaniglia con Miele",
+            "ingredients": [
+              "Farina d'avena (60g)",
+              "Albume (120ml)",
+              "Lievito per dolci",
+              "Miele puro (20g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Petto di Pollo ai Funghi Porcini e Riso",
+            "ingredients": [
+              "Petto di pollo a fette (200g)",
+              "Funghi porcini trifolati (100g)",
+              "Riso basmati (100g)",
+              "Olio evo (15g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Smoothie Cremoso Proteico Banana e Cioccolato",
+            "ingredients": [
+              "Banana congelata (100g)",
+              "Proteine in polvere cioccolato (30g)",
+              "Latte o bevanda vegetale (200ml)",
+              "Crema d'arachidi (15g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Bistecca di Maiale con Patate al Forno",
+            "ingredients": [
+              "Bistecca di maiale (200g)",
+              "Patate novelle al forno (220g)",
+              "Olio evo (15g)",
+              "Verdure fresche di stagione"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Super Cioccolatoso Post-Workout",
+            "ingredients": [
+              "Farina d'avena (60g)",
+              "Cacao amaro (10g)",
+              "Albumi (150ml)",
+              "Yogurt greco (80g)",
+              "Cioccolato fondente 85% (15g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Straccetti di Manzo con Rucola e Pomodorini",
+            "ingredients": [
+              "Straccetti di manzo (180g)",
+              "Rucola fresca e pomodorini (100g)",
+              "Olio evo (15g)",
+              "Pane casereccio (50g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Mug Cake Fit Proteico al Caffè",
+            "ingredients": [
+              "Farina d'avena (45g)",
+              "Caffè espresso (1 tazzina)",
+              "Albume (50ml)",
+              "Proteine whey vaniglia (20g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Filetto di Salmone con Zucchine",
+            "ingredients": [
+              "Salmone fresco (200g)",
+              "Zucchine saltate in padella (250g)",
+              "Olio evo (10g)",
+              "Pane integrale (40g)"
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 3: Tex-Mex & Clean Bulk",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 4: Varietà Massima & Comfort Internazionale",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 5: Focus Orientale & Matcha Clean",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 6: High-Protein & Performance",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 7: Mediterraneo Rinforzato",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 8: Rotazione Globale Avanzata",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 9: Peak Conditioning & Cut",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 10: Master Plan & Sgarro Pulito",
-    "days": [
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteici con Avena", "ingredients": ["Farina d'Avena", "Albume", "Burro d'Arachidi"]},
-          {"slot": "Pranzo", "title": "Ramen Fit con Pollo e Uovo", "ingredients": ["Spaghetti di Riso", "Brodo Vegetale", "Petto di Pollo", "Uova", "Salsa di Soia"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa in Teglia", "ingredients": ["Farina per Pizza", "Lievito", "Passata di Pomodoro", "Mozzarella"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Toast Messicano con Uova e Avocado", "ingredients": ["Pane Integrale", "Uova", "Avocado", "Lime"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Tonno EVO", "ingredients": ["Pasta Integrale", "Tonno al Naturale", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Burger Angus con Patate Dolci", "ingredients": ["Panini da Burger", "Carne Macinata di Angus", "Cheddar", "Patate Dolci"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Yogurt Greco e Miele", "ingredients": ["Yogurt Greco 0%", "Cereali Integrali", "Miele"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo al Curry", "ingredients": ["Riso Basmati", "Petto di Pollo", "Spezie Curry", "Zucchine"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Patate", "ingredients": ["Carne di Manzo", "Patate", "Insalata mista"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Porridge Giapponese al Matcha", "ingredients": ["Fiocchi d'Avena", "Tè Matcha in polvere", "Latte di Mandorla", "Semi di Chia"]},
-          {"slot": "Pranzo", "title": "Cous Cous Marocchino con Tacchino", "ingredients": ["Cous Cous", "Fesa di Tacchino", "Peperoni", "Carote", "Olio EVO"]},
-          {"slot": "Spuntino", "title": "Pane di Segale e Burro d'Arachidi", "ingredients": ["Pane di Segale", "Burro d'Arachidi"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Broccoli", "ingredients": ["Trancio di Salmone", "Riso Basmati", "Broccoli"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Gallette con Crema di Mandorle", "ingredients": ["Gallette di Riso", "Crema 100% Mandorle", "Uova"]},
-          {"slot": "Pranzo", "title": "Burro Bowl Messicana Fit", "ingredients": ["Riso Basmati", "Carne Macinata Magra", "Fagioli Neri", "Mais dolce"]},
-          {"slot": "Spuntino", "title": "Frutta Fresca e Mandorle", "ingredients": ["Mela", "Mandorle Pelate"]},
-          {"slot": "Cena", "title": "Tacos di Maiale Speziato", "ingredients": ["Tortillas di Mais", "Fettine di Maiale", "Spezie Paprika", "Cavolo Rosso"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Plumcake Proteico Fit", "ingredients": ["Farina di Riso", "Albume", "Cacao Amaro", "Cioccolato Fondente"]},
-          {"slot": "Pranzo", "title": "Farro Freddo con Salmone Norvegese", "ingredients": ["Farro", "Salmone Affumicato", "Pomodorini", "Rucola"]},
-          {"slot": "Spuntino", "title": "Yogurt Greco con Frutti secchi", "ingredients": ["Yogurt Greco 0%", "Noci"]},
-          {"slot": "Cena", "title": "Petto di Tacchino con Purè", "ingredients": ["Fesa di Tacchino", "Patate", "Burro chiarificato"]}
-        ]
-      },
-      {
-        "meals": [
-          {"slot": "Colazione", "title": "Omelette Dolce Orientale", "ingredients": ["Albume", "Cannella", "Mela", "Olio di cocco"]},
-          {"slot": "Pranzo", "title": "Piadina Greca con Souvlaki", "ingredients": ["Piadina Integrale", "Fesa di Tacchino", "Yogurt Greco 0%", "Cetrioli"]},
-          {"slot": "Spuntino", "title": "Gallette di Riso con Bresaola", "ingredients": ["Gallette di Riso", "Bresaola"]},
-          {"slot": "Cena", "title": "Orata al Cartoccio Mediterranea", "ingredients": ["Filetto di Orata", "Asparagi", "Olio EVO", "Limone", "Olive"]}
+          {
+            "slot": "Colazione",
+            "title": "Porridge Freddo Over-Night con Yogurt e Frutta",
+            "ingredients": [
+              "Fiocchi d'avena (60g)",
+              "Yogurt greco (120g)",
+              "Latte (100ml)",
+              "Frutti di bosco o mirtilli freschi (60g)"
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta Integrale con Pollo e Zucchine",
+            "ingredients": [
+              "Pasta integrale (100g)",
+              "Petto di pollo a pezzetti (160g)",
+              "Zucchine julienne (150g)",
+              "Olio evo (15g)"
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Crema di Riso Dolce con Mandorle",
+            "ingredients": [
+              "Crema di riso (50g)",
+              "Proteine whey (25g)",
+              "Acqua calda (250ml)",
+              "Mandorle tritate (15g)"
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Maiale al Limone con Contorno di Patate",
+            "ingredients": [
+              "Lombo di maiale (200g)",
+              "Succo di limone e scorza grattugiata",
+              "Patate lesse o al forno (220g)",
+              "Olio evo (15g)"
+            ]
+          }
         ]
       }
     ]
   }
 ]
-{
