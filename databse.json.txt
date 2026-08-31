@@ -4,58 +4,315 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteico d'Autore", "ingredients": ["Avena in fiocchi macinati (60g)", "Albumi d'uovo (150ml)", "Yogurt greco 0% (100g)", "Cioccolato fondente 85% (20g)", "Miele o sciroppo d'acero puro (10g)"]},
-          {"slot": "Pranzo", "title": "Pasta e Diaframma di Manzo", "ingredients": ["Pasta di semola di grano duro (100g)", "Diaframma di manzo (180g)", "Olio extravergine d'oliva (15g)", "Pomodorini freschi e basilico"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Budino Proteico Fit ai Frutti di Bosco", "ingredients": ["Yogurt greco 0% (200g)", "Proteine in polvere whey vaniglia (25g)", "Frutti di bosco (80g)", "Granella di mandorle (10g)"]},
-          {"slot": "Cena", "title": "Maiale con Chimichurri e Patate", "ingredients": ["Lombo di maiale a fette (200g)", "Chimichurri fatto in casa", "Patate (250g)", "Olio extravergine d'oliva (10g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Proteico d'Autore",
+            "ingredients": [
+              {"name": "Avena in fiocchi macinati", "amount": "60g"},
+              {"name": "Albumi d'uovo", "amount": "150ml"},
+              {"name": "Yogurt greco 0%", "amount": "100g"},
+              {"name": "Cioccolato fondente 85%", "amount": "20g"},
+              {"name": "Miele o sciroppo d'acero puro", "amount": "10g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta e Diaframma di Manzo",
+            "ingredients": [
+              {"name": "Pasta di semola di grano duro", "amount": "100g"},
+              {"name": "Diaframma di manzo", "amount": "180g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"},
+              {"name": "Pomodorini freschi e basilico", "amount": "q.b."}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Budino Proteico Fit ai Frutti di Bosco",
+            "ingredients": [
+              {"name": "Yogurt greco 0%", "amount": "200g"},
+              {"name": "Proteine in polvere whey vaniglia", "amount": "25g"},
+              {"name": "Frutti di bosco", "amount": "80g"},
+              {"name": "Granella di mandorle", "amount": "10g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Maiale con Chimichurri e Patate",
+            "ingredients": [
+              {"name": "Lombo di maiale a fette", "amount": "200g"},
+              {"name": "Chimichurri fatto in casa", "amount": "q.b."},
+              {"name": "Patate", "amount": "250g"},
+              {"name": "Olio extravergine d'oliva", "amount": "10g"}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino Fit al Forno Cacao e Mandorle", "ingredients": ["Farina d'avena (50g)", "Cacao amaro in polvere (15g)", "Uovo intero (1)", "Latte parzialmente scremato (80ml)", "Burro di mandorle 100% (15g)"]},
-          {"slot": "Pranzo", "title": "Riso Basmati con Petto di Pollo Speziato", "ingredients": ["Riso basmati (100g)", "Petto di pollo a cubetti (200g)", "Peperoni e cipolla", "Olio extravergine d'oliva (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Bowl di Avena Fredda con Yogurt e Cioccolato", "ingredients": ["Avena istantanea (50g)", "Yogurt bianco magro (150g)", "Crema di arachidi 100% (20g)", "Scaglie di cioccolato fondente (15g)"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Verdure Grigliate", "ingredients": ["Scamone o filetto di manzo (220g)", "Zucchine e melanzane (250g)", "Olio extravergine d'oliva (15g)", "Pane casereccio (50g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Tortino Fit al Forno Cacao e Mandorle",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "50g"},
+              {"name": "Cacao amaro in polvere", "amount": "15g"},
+              {"name": "Uovo intero", "amount": "1 pz"},
+              {"name": "Latte parzialmente scremato", "amount": "80ml"},
+              {"name": "Burro di mandorle 100%", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Riso Basmati con Petto di Pollo Speziato",
+            "ingredients": [
+              {"name": "Riso basmati", "amount": "100g"},
+              {"name": "Petto di pollo a cubetti", "amount": "200g"},
+              {"name": "Peperoni e cipolla", "amount": "150g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Bowl di Avena Fredda con Yogurt",
+            "ingredients": [
+              {"name": "Avena istantanea", "amount": "50g"},
+              {"name": "Yogurt bianco magro", "amount": "150g"},
+              {"name": "Crema di arachidi 100%", "amount": "20g"},
+              {"name": "Scaglie di cioccolato fondente", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Tagliata di Manzo con Verdure",
+            "ingredients": [
+              {"name": "Scamone o filetto di manzo", "amount": "220g"},
+              {"name": "Zucchine e melanzane", "amount": "250g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"},
+              {"name": "Pane casereccio", "amount": "50g"}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Cremoso Proteico alla Vaniglia", "ingredients": ["Fiocchi d'avena (60g)", "Latte o bevanda vegetale (200ml)", "Proteine in polvere whey (25g)", "Cannella in polvere", "Mirtilli freschi (50g)"]},
-          {"slot": "Pranzo", "title": "Quesadilla Proteica di Manzo", "ingredients": ["Tortillas di grano o mais (2)", "Carne macinata magra di manzo (180g)", "Formaggio light grattugiato (40g)", "Salsa o guacamole casalingo"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Plumcake Fit Proteico allo Yogurt", "ingredients": ["Farina d'avena o riso (50g)", "Albume d'uovo (100ml)", "Yogurt greco (50g)", "Gocce di cioccolato fondente (15g)"]},
-          {"slot": "Cena", "title": "Trancio di Salmone al Forno con Patate", "ingredients": ["Filetto di salmone fresco (200g)", "Patate novelle (200g)", "Olio extravergine d'oliva (10g)", "Insalata verde mista"]}
+          {
+            "slot": "Colazione",
+            "title": "Porridge Cremoso Proteico alla Vaniglia",
+            "ingredients": [
+              {"name": "Fiocchi d'avena", "amount": "60g"},
+              {"name": "Latte o bevanda vegetale", "amount": "200ml"},
+              {"name": "Proteine in polvere whey", "amount": "25g"},
+              {"name": "Cannella in polvere", "amount": "q.b."},
+              {"name": "Mirtilli freschi", "amount": "50g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Quesadilla Proteica di Manzo",
+            "ingredients": [
+              {"name": "Tortillas di grano o mais", "amount": "2 pz"},
+              {"name": "Carne macinata magra di manzo", "amount": "180g"},
+              {"name": "Formaggio light grattugiato", "amount": "40g"},
+              {"name": "Salsa o guacamole casalingo", "amount": "q.b."}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Plumcake Fit Proteico allo Yogurt",
+            "ingredients": [
+              {"name": "Farina d'avena o riso", "amount": "50g"},
+              {"name": "Albume d'uovo", "amount": "100ml"},
+              {"name": "Yogurt greco", "amount": "50g"},
+              {"name": "Gocce di cioccolato fondente", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Trancio di Salmone al Forno con Patate",
+            "ingredients": [
+              {"name": "Filetto di salmone fresco", "amount": "200g"},
+              {"name": "Patate novelle", "amount": "200g"},
+              {"name": "Olio extravergine d'oliva", "amount": "10g"},
+              {"name": "Insalata verde mista", "amount": "q.b."}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Fit Proteici con Cioccolato", "ingredients": ["Farina d'avena (60g)", "Uovo intero (1)", "Albume (50ml)", "Lievito per dolci", "Crema spalmabile proteica o fondente (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al ragù di Manzo", "ingredients": ["Pasta integrale (100g)", "Macinato scelto di manzo (160g)", "Passata di pomodoro (150g)", "Olio extravergine d'oliva (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Whey al Cacao", "ingredients": ["Crema di riso istantanea (50g)", "Acqua o latte (250ml)", "Proteine whey al cioccolato (30g)", "Mandorle tostate (15g)"]},
-          {"slot": "Cena", "title": "Pan Pizza ad Alta Idratazione", "ingredients": ["Farina Molino Vigevano Vesuvio (180g)", "Mozzarella fior di latte o vegan (100g)", "Passata di pomodoro condita (80g)", "Olio extravergine d'oliva (15g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Waffle Fit Proteici con Cioccolato",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "60g"},
+              {"name": "Uovo intero", "amount": "1 pz"},
+              {"name": "Albume", "amount": "50ml"},
+              {"name": "Lievito per dolci", "amount": "q.b."},
+              {"name": "Crema spalmabile proteica", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta Integrale al Ragù di Manzo",
+            "ingredients": [
+              {"name": "Pasta integrale", "amount": "100g"},
+              {"name": "Macinato scelto di manzo", "amount": "160g"},
+              {"name": "Passata di pomodoro", "amount": "150g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Crema di Riso e Whey al Cacao",
+            "ingredients": [
+              {"name": "Crema di riso istantanea", "amount": "50g"},
+              {"name": "Acqua o latte", "amount": "250ml"},
+              {"name": "Proteine whey al cioccolato", "amount": "30g"},
+              {"name": "Mandorle tostate", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Pan Pizza ad Alta Idratazione",
+            "ingredients": [
+              {"name": "Farina Molino Vigevano Vesuvio", "amount": "180g"},
+              {"name": "Mozzarella fior di latte", "amount": "100g"},
+              {"name": "Passata di pomodoro condita", "amount": "80g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Coppa Energetica Avena e Ricotta", "ingredients": ["Avena in fiocchi (50g)", "Ricotta fresca vaccina (100g)", "Miele (15g)", "Noci in gherigli (15g)"]},
-          {"slot": "Pranzo", "title": "Petto di Pollo alla Piastra con Riso", "ingredients": ["Petto di pollo marinato (200g)", "Riso parboiled (100g)", "Olio extravergine d'oliva (15g)", "Verdure miste al vapore"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake Fit al Cioccolato Fondente", "ingredients": ["Farina d'avena (40g)", "Cacao amaro (10g)", "Albume (60ml)", "Latte (30ml)", "Cioccolato fondente (10g)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale ai Ferri con Insalata", "ingredients": ["Bistecca di maiale magra (200g)", "Olio extravergine d'oliva (15g)", "Pane di semola (60g)", "Insalata iceberg e pomodori"]}
+          {
+            "slot": "Colazione",
+            "title": "Coppa Energetica Avena e Ricotta",
+            "ingredients": [
+              {"name": "Avena in fiocchi", "amount": "50g"},
+              {"name": "Ricotta fresca vaccina", "amount": "100g"},
+              {"name": "Miele", "amount": "15g"},
+              {"name": "Noci in gherigli", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Petto di Pollo alla Piastra con Riso",
+            "ingredients": [
+              {"name": "Petto di pollo marinato", "amount": "200g"},
+              {"name": "Riso parboiled", "amount": "100g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"},
+              {"name": "Verdure miste al vapore", "amount": "150g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Mug Cake Fit al Cioccolato",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "40g"},
+              {"name": "Cacao amaro", "amount": "10g"},
+              {"name": "Albume", "amount": "60ml"},
+              {"name": "Latte", "amount": "30ml"},
+              {"name": "Cioccolato fondente", "amount": "10g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Bistecca di Maiale ai Ferri",
+            "ingredients": [
+              {"name": "Bistecca di maiale magra", "amount": "200g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"},
+              {"name": "Pane di semola", "amount": "60g"},
+              {"name": "Insalata iceberg e pomodori", "amount": "q.b."}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Morbido con Yogurt e Frutta", "ingredients": ["Farina d'avena (55g)", "Albumi (140ml)", "Yogurt greco (80g)", "Fragole o mirtilli freschi (60g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi di Patate al Sugo", "ingredients": ["Gnocchi freschi di patate (160g)", "Macinato di manzo magro (120g)", "Salsa di pomodoro fresco (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico ad Alto Potere Saziante", "ingredients": ["Proteine in polvere (30g)", "Latte parzialmente scremato (250ml)", "Burro d'arachidi (15g)", "Ghiaccio"]},
-          {"slot": "Cena", "title": "Trancio di Tonno alla Griglia con Patate", "ingredients": ["Trancio di tonno fresco (200g)", "Patate lesse o al forno (220g)", "Olio evo (15g)", "Prezzemolo e limone"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Morbido con Yogurt e Frutta",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "55g"},
+              {"name": "Albumi", "amount": "140ml"},
+              {"name": "Yogurt greco", "amount": "80g"},
+              {"name": "Fragole o mirtilli freschi", "amount": "60g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Gnocchi di Patate al Sugo",
+            "ingredients": [
+              {"name": "Gnocchi freschi di patate", "amount": "160g"},
+              {"name": "Macinato di manzo magro", "amount": "120g"},
+              {"name": "Salsa di pomodoro fresco", "amount": "100g"},
+              {"name": "Olio evo", "amount": "10g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Shake Proteico ad Alto Potere Saziante",
+            "ingredients": [
+              {"name": "Proteine in polvere", "amount": "30g"},
+              {"name": "Latte parzialmente scremato", "amount": "250ml"},
+              {"name": "Burro d'arachidi", "amount": "15g"},
+              {"name": "Ghiaccio", "amount": "q.b."}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Trancio di Tonno alla Griglia con Patate",
+            "ingredients": [
+              {"name": "Trancio di tonno fresco", "amount": "200g"},
+              {"name": "Patate lesse o al forno", "amount": "220g"},
+              {"name": "Olio evo", "amount": "15g"},
+              {"name": "Prezzemolo e limone", "amount": "q.b."}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "French Toast Fit Proteico", "ingredients": ["Pane in cassetta integrale o di segale (2 fette)", "Albume d'uovo (80ml)", "Cannella e dolcificante", "Sciroppo d'acero zero o miele (15g)"]},
-          {"slot": "Pranzo", "title": "Bowl di Riso, Manzo e Avocado", "ingredients": ["Riso basmati cotto (100g)", "Straccetti di manzo saltati (180g)", "Avocado fresco (50g)", "Salsa di soia a ridotto sodio (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Tortino in Tazza Proteico alla Vaniglia", "ingredients": ["Farina di riso o avena (45g)", "Proteine whey vaniglia (20g)", "Yogurt greco (40g)", "Latte (40ml)"]},
-          {"slot": "Cena", "title": "Arrosto di Lombo di Maiale con Verdure", "ingredients": ["Lombo di maiale al forno (200g)", "Carote e finocchi (250g)", "Olio extravergine d'oliva (15g)", "Pane casereccio (50g)"]}
+          {
+            "slot": "Colazione",
+            "title": "French Toast Fit Proteico",
+            "ingredients": [
+              {"name": "Pane in cassetta integrale", "amount": "2 fette"},
+              {"name": "Albume d'uovo", "amount": "80ml"},
+              {"name": "Cannella e dolcificante", "amount": "q.b."},
+              {"name": "Sciroppo d'acero zero o miele", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Bowl di Riso, Manzo e Avocado",
+            "ingredients": [
+              {"name": "Riso basmati cotto", "amount": "100g"},
+              {"name": "Straccetti di manzo saltati", "amount": "180g"},
+              {"name": "Avocado fresco", "amount": "50g"},
+              {"name": "Salsa di soia a ridotto sodio", "amount": "10g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Tortino in Tazza alla Vaniglia",
+            "ingredients": [
+              {"name": "Farina di riso o avena", "amount": "45g"},
+              {"name": "Proteine whey vaniglia", "amount": "20g"},
+              {"name": "Yogurt greco", "amount": "40g"},
+              {"name": "Latte", "amount": "40ml"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Arrosto di Lombo di Maiale",
+            "ingredients": [
+              {"name": "Lombo di maiale al forno", "amount": "200g"},
+              {"name": "Carote e finocchi", "amount": "250g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"},
+              {"name": "Pane casereccio", "amount": "50g"}
+            ]
+          }
         ]
       }
     ]
@@ -65,58 +322,311 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Ciococco, Avena e Mandorle", "ingredients": ["Farina d'avena al cioccolato (60g)", "Albumi (150ml)", "Crema di mandorle bianca (15g)", "Cioccolato fondente 85% (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta al Ragù Bianco di Maiale", "ingredients": ["Pasta di semola (100g)", "Macinato magro di maiale (180g)", "Rosmarino, aglio e vino bianco", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Budino Proteico Light al Caffè", "ingredients": ["Yogurt greco 0% (200g)", "Caffè espresso (1 tazzina)", "Proteine in polvere whey al caffè (25g)", "Cioccolato fondente grattugiato (10g)"]},
-          {"slot": "Cena", "title": "Tagliata di Diaframma con Chimichurri", "ingredients": ["Diaframma di manzo (200g)", "Chimichurri fresco", "Verdure grigliate miste (250g)", "Olio evo (15g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Ciococco, Avena e Mandorle",
+            "ingredients": [
+              {"name": "Farina d'avena al cioccolato", "amount": "60g"},
+              {"name": "Albumi", "amount": "150ml"},
+              {"name": "Crema di mandorle bianca", "amount": "15g"},
+              {"name": "Cioccolato fondente 85%", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta al Ragù Bianco di Maiale",
+            "ingredients": [
+              {"name": "Pasta di semola", "amount": "100g"},
+              {"name": "Macinato magro di maiale", "amount": "180g"},
+              {"name": "Rosmarino, aglio e vino bianco", "amount": "q.b."},
+              {"name": "Olio evo", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Budino Proteico Light al Caffè",
+            "ingredients": [
+              {"name": "Yogurt greco 0%", "amount": "200g"},
+              {"name": "Caffè espresso", "amount": "1 tazzina"},
+              {"name": "Proteine whey al caffè", "amount": "25g"},
+              {"name": "Cioccolato fondente", "amount": "10g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Tagliata di Diaframma con Chimichurri",
+            "ingredients": [
+              {"name": "Diaframma di manzo", "amount": "200g"},
+              {"name": "Chimichurri fresco", "amount": "q.b."},
+              {"name": "Verdure grigliate miste", "amount": "250g"},
+              {"name": "Olio evo", "amount": "15g"}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge con Burro d'Arachidi", "ingredients": ["Fiocchi d'avena (60g)", "Latte parzialmente scremato (220ml)", "Burro d'arachidi 100% (20g)", "Banana a fettine (80g)"]},
-          {"slot": "Pranzo", "title": "Riso Saltato con Pollo e Verdure", "ingredients": ["Riso basmati (100g)", "Petto di pollo a striscioline (200g)", "Mix di verdure miste (150g)", "Olio di sesamo o evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Muffin Fit al Cacao Senza Burro", "ingredients": ["Farina d'avena (50g)", "Cacao amaro (15g)", "Albume (100ml)", "Yogurt magro (50g)"]},
-          {"slot": "Cena", "title": "Filetto di Maiale in Crosta di Spezie", "ingredients": ["Filetto di maiale (200g)", "Patate dolci al forno (220g)", "Olio evo (15g)", "Insalata verde fresca"]}
+          {
+            "slot": "Colazione",
+            "title": "Porridge con Burro d'Arachidi",
+            "ingredients": [
+              {"name": "Fiocchi d'avena", "amount": "60g"},
+              {"name": "Latte parzialmente scremato", "amount": "220ml"},
+              {"name": "Burro d'arachidi 100%", "amount": "20g"},
+              {"name": "Banana a fettine", "amount": "80g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Riso Saltato con Pollo e Verdure",
+            "ingredients": [
+              {"name": "Riso basmati", "amount": "100g"},
+              {"name": "Petto di pollo a striscioline", "amount": "200g"},
+              {"name": "Mix di verdure miste", "amount": "150g"},
+              {"name": "Olio di sesamo o evo", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Muffin Fit al Cacao Senza Burro",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "50g"},
+              {"name": "Cacao amaro", "amount": "15g"},
+              {"name": "Albume", "amount": "100ml"},
+              {"name": "Yogurt magro", "amount": "50g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Filetto di Maiale in Crosta di Spezie",
+            "ingredients": [
+              {"name": "Filetto di maiale", "amount": "200g"},
+              {"name": "Patate dolci al forno", "amount": "220g"},
+              {"name": "Olio evo", "amount": "15g"},
+              {"name": "Insalata verde fresca", "amount": "q.b."}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake di Riso e Albume", "ingredients": ["Farina di riso (60g)", "Albumi (150ml)", "Miele (15g)", "Frutti di bosco freschi (50g)"]},
-          {"slot": "Pranzo", "title": "Gulasch Ungherese Fit", "ingredients": ["Carne di manzo magra (200g)", "Paprika dolce e affumicata", "Cipolle e passata di pomodoro (100g)", "Patate lesse (200g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Coppa Fresca Yogurt, Whey e Mandorle", "ingredients": ["Yogurt greco 0% (200g)", "Proteine whey gusto biscotto (25g)", "Mandorle pelate (15g)"]},
-          {"slot": "Cena", "title": "Burger di Manzo Fatto in Casa", "ingredients": ["Carne macinata scelta di manzo (200g)", "Pane per burger artigianale (1 pz)", "Insalata, pomodoro e cetrioli", "Olio evo (10g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake di Riso e Albume",
+            "ingredients": [
+              {"name": "Farina di riso", "amount": "60g"},
+              {"name": "Albumi", "amount": "150ml"},
+              {"name": "Miele", "amount": "15g"},
+              {"name": "Frutti di bosco freschi", "amount": "50g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Gulasch Ungherese Fit",
+            "ingredients": [
+              {"name": "Carne di manzo magra", "amount": "200g"},
+              {"name": "Paprika dolce e affumicata", "amount": "q.b."},
+              {"name": "Cipolle e passata di pomodoro", "amount": "100g"},
+              {"name": "Patate lesse", "amount": "200g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Coppa Fresca Yogurt, Whey e Mandorle",
+            "ingredients": [
+              {"name": "Yogurt greco 0%", "amount": "200g"},
+              {"name": "Proteine whey gusto biscotto", "amount": "25g"},
+              {"name": "Mandorle pelate", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Burger di Manzo Fatto in Casa",
+            "ingredients": [
+              {"name": "Carne macinata scelta di manzo", "amount": "200g"},
+              {"name": "Pane per burger artigianale", "amount": "1 pz"},
+              {"name": "Insalata, pomodoro e cetrioli", "amount": "q.b."},
+              {"name": "Olio evo", "amount": "10g"}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino Fit con Mele e Cannella", "ingredients": ["Farina d'avena (55g)", "Mela grattugiata (80g)", "Uovo intero (1)", "Cannella e lievito", "Gocce di cioccolato fondente (10g)"]},
-          {"slot": "Pranzo", "title": "Pasta con Ragù Classico e Parmigiano", "ingredients": ["Pasta di semola (100g)", "Macinato magro di manzo (160g)", "Pomodoro pelato (150g)", "Parmigiano Reggiano (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema Budino di Riso e Cacao", "ingredients": ["Crema di riso istantanea (50g)", "Cacao amaro (10g)", "Proteine whey (25g)", "Acqua o latte caldo (250ml)"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa", "ingredients": ["Farina Molino Vigevano Vesuvio (180g)", "Mozzarella fior di latte (100g)", "Pomodoro pelato condito (90g)", "Olio extravergine d'oliva (15g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Tortino Fit con Mele e Cannella",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "55g"},
+              {"name": "Mela grattugiata", "amount": "80g"},
+              {"name": "Uovo intero", "amount": "1 pz"},
+              {"name": "Cannella e lievito", "amount": "q.b."},
+              {"name": "Gocce di cioccolato fondente", "amount": "10g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta con Ragù Classico e Parmigiano",
+            "ingredients": [
+              {"name": "Pasta di semola", "amount": "100g"},
+              {"name": "Macinato magro di manzo", "amount": "160g"},
+              {"name": "Pomodoro pelato", "amount": "150g"},
+              {"name": "Parmigiano Reggiano", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Crema Budino di Riso e Cacao",
+            "ingredients": [
+              {"name": "Crema di riso istantanea", "amount": "50g"},
+              {"name": "Cacao amaro", "amount": "10g"},
+              {"name": "Proteine whey", "amount": "25g"},
+              {"name": "Acqua o latte caldo", "amount": "250ml"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Pizza Fatta in Casa",
+            "ingredients": [
+              {"name": "Farina Molino Vigevano Vesuvio", "amount": "180g"},
+              {"name": "Mozzarella fior di latte", "amount": "100g"},
+              {"name": "Pomodoro pelato condito", "amount": "90g"},
+              {"name": "Olio extravergine d'oliva", "amount": "15g"}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Dolce alla Vaniglia", "ingredients": ["Farina d'avena (60g)", "Albume (120ml)", "Lievito per dolci", "Miele puro (20g)"]},
-          {"slot": "Pranzo", "title": "Petto di Pollo ai Funghi Porcini e Riso", "ingredients": ["Petto di pollo a fette (200g)", "Funghi porcini trifolati (100g)", "Riso basmati (100g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Cremoso Banana e Cioccolato", "ingredients": ["Banana congelata (100g)", "Proteine in polvere cioccolato (30g)", "Latte o bevanda vegetale (200ml)", "Crema d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale con Patate", "ingredients": ["Bistecca di maiale (200g)", "Patate novelle al forno (220g)", "Olio evo (15g)", "Verdure fresche"]}
+          {
+            "slot": "Colazione",
+            "title": "Waffle Dolce alla Vaniglia",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "60g"},
+              {"name": "Albume", "amount": "120ml"},
+              {"name": "Lievito per dolci", "amount": "q.b."},
+              {"name": "Miele puro", "amount": "20g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Petto di Pollo ai Funghi Porcini e Riso",
+            "ingredients": [
+              {"name": "Petto di pollo a fette", "amount": "200g"},
+              {"name": "Funghi porcini trifolati", "amount": "100g"},
+              {"name": "Riso basmati", "amount": "100g"},
+              {"name": "Olio evo", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Smoothie Cremoso Banana e Cioccolato",
+            "ingredients": [
+              {"name": "Banana congelata", "amount": "100g"},
+              {"name": "Proteine in polvere cioccolato", "amount": "30g"},
+              {"name": "Latte o bevanda vegetale", "amount": "200ml"},
+              {"name": "Crema d'arachidi", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Bistecca di Maiale con Patate",
+            "ingredients": [
+              {"name": "Bistecca di maiale", "amount": "200g"},
+              {"name": "Patate novelle al forno", "amount": "220g"},
+              {"name": "Olio evo", "amount": "15g"},
+              {"name": "Verdure fresche", "amount": "q.b."}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Super Cioccolatoso", "ingredients": ["Farina d'avena (60g)", "Cacao amaro (10g)", "Albumi (150ml)", "Yogurt greco (80g)", "Cioccolato fondente 85% (15g)"]},
-          {"slot": "Pranzo", "title": "Straccetti di Manzo con Rucola", "ingredients": ["Straccetti di manzo (180g)", "Rucola fresca e pomodorini (100g)", "Olio evo (15g)", "Pane casereccio (50g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Caffè", "ingredients": ["Farina d'avena (45g)", "Caffè espresso (1 tazzina)", "Albume (50ml)", "Proteine whey vaniglia (20g)"]},
-          {"slot": "Cena", "title": "Filetto di Salmone con Zucchine", "ingredients": ["Salmone fresco (200g)", "Zucchine saltate in padella (250g)", "Olio evo (10g)", "Pane integrale (40g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Pancake Super Cioccolatoso",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "60g"},
+              {"name": "Cacao amaro", "amount": "10g"},
+              {"name": "Albumi", "amount": "150ml"},
+              {"name": "Yogurt greco", "amount": "80g"},
+              {"name": "Cioccolato fondente 85%", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Straccetti di Manzo con Rucola",
+            "ingredients": [
+              {"name": "Straccetti di manzo", "amount": "180g"},
+              {"name": "Rucola fresca e pomodorini", "amount": "100g"},
+              {"name": "Olio evo", "amount": "15g"},
+              {"name": "Pane casereccio", "amount": "50g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Mug Cake al Caffè",
+            "ingredients": [
+              {"name": "Farina d'avena", "amount": "45g"},
+              {"name": "Caffè espresso", "amount": "1 tazzina"},
+              {"name": "Albume", "amount": "50ml"},
+              {"name": "Proteine whey vaniglia", "amount": "20g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Filetto di Salmone con Zucchine",
+            "ingredients": [
+              {"name": "Salmone fresco", "amount": "200g"},
+              {"name": "Zucchine saltate in padella", "amount": "250g"},
+              {"name": "Olio evo", "amount": "10g"},
+              {"name": "Pane integrale", "amount": "40g"}
+            ]
+          }
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Freddo Over-Night", "ingredients": ["Fiocchi d'avena (60g)", "Yogurt greco (120g)", "Latte (100ml)", "Frutti di bosco o mirtilli (60g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale con Pollo e Zucchine", "ingredients": ["Pasta integrale (100g)", "Petto di pollo a pezzetti (160g)", "Zucchine julienne (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso Dolce con Mandorle", "ingredients": ["Crema di riso (50g)", "Proteine whey (25g)", "Acqua calda (250ml)", "Mandorle tritate (15g)"]},
-          {"slot": "Cena", "title": "Maiale al Limone con Patate", "ingredients": ["Lombo di maiale (200g)", "Succo e scorza di limone", "Patate lesse o al forno (220g)", "Olio evo (15g)"]}
+          {
+            "slot": "Colazione",
+            "title": "Porridge Freddo Over-Night",
+            "ingredients": [
+              {"name": "Fiocchi d'avena", "amount": "60g"},
+              {"name": "Yogurt greco", "amount": "120g"},
+              {"name": "Latte", "amount": "100ml"},
+              {"name": "Frutti di bosco o mirtilli", "amount": "60g"}
+            ]
+          },
+          {
+            "slot": "Pranzo",
+            "title": "Pasta Integrale con Pollo e Zucchine",
+            "ingredients": [
+              {"name": "Pasta integrale", "amount": "100g"},
+              {"name": "Petto di pollo a pezzetti", "amount": "160g"},
+              {"name": "Zucchine julienne", "amount": "150g"},
+              {"name": "Olio evo", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Spuntino / Post-Workout",
+            "title": "Crema di Riso Dolce con Mandorle",
+            "ingredients": [
+              {"name": "Crema di riso", "amount": "50g"},
+              {"name": "Proteine whey", "amount": "25g"},
+              {"name": "Acqua calda", "amount": "250ml"},
+              {"name": "Mandorle tritate", "amount": "15g"}
+            ]
+          },
+          {
+            "slot": "Cena",
+            "title": "Maiale al Limone con Patate",
+            "ingredients": [
+              {"name": "Lombo di maiale", "amount": "200g"},
+              {"name": "Succo e scorza di limone", "amount": "q.b."},
+              {"name": "Patate lesse o al forno", "amount": "220g"},
+              {"name": "Olio evo", "amount": "15g"}
+            ]
+          }
         ]
       }
     ]
@@ -126,58 +636,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Avena e Uova intere", "ingredients": ["Farina d'avena (70g)", "Uova intere (2)", "Latte (50ml)", "Miele (15g)"]},
-          {"slot": "Pranzo", "title": "Riso con Spezzatino di Manzo", "ingredients": ["Riso basmati (100g)", "Spezzatino di manzo magro (200g)", "Piselli e carote (100g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Burro d'Arachidi", "ingredients": ["Yogurt greco 0% (200g)", "Burro d'arachidi (20g)", "Mirtilli (50g)"]},
-          {"slot": "Cena", "title": "Petto di Tacchino alla Piastra", "ingredients": ["Fettine di tacchino (220g)", "Insalata mista (150g)", "Olio evo (15g)", "Pane di segale (50g)"]}
+          {"slot": "Colazione", "title": "Pancake Avena e Uova intere", "ingredients": [{"name": "Farina d'avena", "amount": "70g"}, {"name": "Uova intere", "amount": "2 pz"}, {"name": "Latte", "amount": "50ml"}, {"name": "Miele", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Riso con Spezzatino di Manzo", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Spezzatino di manzo magro", "amount": "200g"}, {"name": "Piselli e carote", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Burro d'Arachidi", "ingredients": [{"name": "Yogurt greco 0%", "amount": "200g"}, {"name": "Burro d'arachidi", "amount": "20g"}, {"name": "Mirtilli", "amount": "50g"}]},
+          {"slot": "Cena", "title": "Petto di Tacchino alla Piastra", "ingredients": [{"name": "Fettine di tacchino", "amount": "220g"}, {"name": "Insalata mista", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane di segale", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Classico al Cacao", "ingredients": ["Fiocchi d'avena (60g)", "Cacao amaro (15g)", "Latte (220ml)", "Mandorle (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta con Tonno Fresco e Pomodorini", "ingredients": ["Pasta di semola (100g)", "Trancio di tonno (180g)", "Pomodorini (100g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Whey e Frutti di Bosco", "ingredients": ["Proteine whey (30g)", "Latte scremato (250ml)", "Frutti di bosco (60g)"]},
-          {"slot": "Cena", "title": "Hamburger di Tacchino Fattot in Casa", "ingredients": ["Macinato di tacchino (200g)", "Pane per burger (1 pz)", "Verdure grigliate (200g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Porridge Classico al Cacao", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Cacao amaro", "amount": "15g"}, {"name": "Latte", "amount": "220ml"}, {"name": "Mandorle", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta con Tonno Fresco e Pomodorini", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Trancio di tonno", "amount": "180g"}, {"name": "Pomodorini", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Whey e Frutti di Bosco", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte scremato", "amount": "250ml"}, {"name": "Frutti di bosco", "amount": "60g"}]},
+          {"slot": "Cena", "title": "Hamburger di Tacchino Fatto in Casa", "ingredients": [{"name": "Macinato di tacchino", "amount": "200g"}, {"name": "Pane per burger", "amount": "1 pz"}, {"name": "Verdure grigliate", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Crema di Riso e Uova", "ingredients": ["Crema di riso (60g)", "Albumi (150ml)", "Cacao (10g)"]},
-          {"slot": "Pranzo", "title": "Pollo al Curry con Riso Basmati", "ingredients": ["Petto di pollo (200g)", "Riso basmati (100g)", "Curry e latte di cocco light (50ml)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Pudding Proteico al Cioccolato", "ingredients": ["Yogurt greco (200g)", "Proteine whey al cioccolato (25g)", "Noci (10g)"]},
-          {"slot": "Cena", "title": "Orata al Forno con Patate", "ingredients": ["Filetti di orata (220g)", "Patate (200g)", "Olio evo (15g)", "Pomodorini"]}
+          {"slot": "Colazione", "title": "Crema di Riso e Uova", "ingredients": [{"name": "Crema di riso", "amount": "60g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Cacao", "amount": "10g"}]},
+          {"slot": "Pranzo", "title": "Pollo al Curry con Riso Basmati", "ingredients": [{"name": "Petto di pollo", "amount": "200g"}, {"name": "Riso basmati", "amount": "100g"}, {"name": "Latte di cocco light", "amount": "50ml"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Pudding Proteico al Cioccolato", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Proteine whey al cioccolato", "amount": "25g"}, {"name": "Noci", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Orata al Forno con Patate", "ingredients": [{"name": "Filetti di orata", "amount": "220g"}, {"name": "Patate", "amount": "200g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pomodorini", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino di Avena e Albume", "ingredients": ["Farina d'avena (60g)", "Albume (150ml)", "Gocce di cioccolato (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale con Sgombro", "ingredients": ["Pasta integrale (100g)", "Filetti di sgombro in scatola al naturale (150g)", "Olio evo (15g)", "Prezzemolo"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Proteico alla Vaniglia", "ingredients": ["Proteine whey (30g)", "Latte vegetale (250ml)", "Crema di mandorle (15g)"]},
-          {"slot": "Cena", "title": "Filetti di Maiale con Zucchine", "ingredients": ["Lombo di maiale (200g)", "Zucchine (250g)", "Olio evo (15g)", "Pane casereccio (40g)"]}
+          {"slot": "Colazione", "title": "Tortino di Avena e Albume", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Albume", "amount": "150ml"}, {"name": "Gocce di cioccolato", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale con Sgombro", "ingredients": [{"name": "Pasta integrale", "amount": "100g"}, {"name": "Filetti di sgombro in scatola", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Prezzemolo", "amount": "q.b."}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Proteico alla Vaniglia", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte vegetale", "amount": "250ml"}, {"name": "Crema di mandorle", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Filetti di Maiale con Zucchine", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Zucchine", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane casereccio", "amount": "40g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Fit con Sciroppo", "ingredients": ["Farina d'avena (60g)", "Uovo (1)", "Albume (50ml)", "Sciroppo d'acero (15g)"]},
-          {"slot": "Pranzo", "title": "Riso con Straccetti di Vitello", "ingredients": ["Riso parboiled (100g)", "Straccetti di vitello magro (180g)", "Peperoni (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt e Crema di Riso", "ingredients": ["Yogurt greco (150g)", "Crema di riso cotta (40g)", "Cannella"]},
-          {"slot": "Cena", "title": "Salmone alla piastra con Insalata", "ingredients": ["Trancio di salmone (200g)", "Insalata verde (150g)", "Olio evo (10g)", "Pane di segale (50g)"]}
+          {"slot": "Colazione", "title": "Waffle Fit con Sciroppo", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Albume", "amount": "50ml"}, {"name": "Sciroppo d'acero", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Riso con Straccetti di Vitello", "ingredients": [{"name": "Riso parboiled", "amount": "100g"}, {"name": "Straccetti di vitello magro", "amount": "180g"}, {"name": "Peperoni", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt e Crema di Riso", "ingredients": [{"name": "Yogurt greco", "amount": "150g"}, {"name": "Crema di riso cotta", "amount": "40g"}, {"name": "Cannella", "amount": "q.b."}]},
+          {"slot": "Cena", "title": "Salmone alla piastra con Insalata", "ingredients": [{"name": "Trancio di salmone", "amount": "200g"}, {"name": "Insalata verde", "amount": "150g"}, {"name": "Olio evo", "amount": "10g"}, {"name": "Pane di segale", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteico Classico", "ingredients": ["Farina d'avena (60g)", "Albumi (150ml)", "Mirtilli (50g)"]},
-          {"slot": "Pranzo", "title": "Pasta alla Carbonara Fit", "ingredients": ["Pasta di semola (100g)", "Guanciale sgrassato o bresaola (80g)", "Uova (1 intero + 1 albume)", "Pecorino (20g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Barretta o Shake con Mandorle", "ingredients": ["Proteine whey (30g)", "Latte (250ml)", "Mandorle (15g)"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo Semplice", "ingredients": ["Scamone di manzo (200g)", "Rucola e grana (50g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Pancake Proteico Classico", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Mirtilli", "amount": "50g"}]},
+          {"slot": "Pranzo", "title": "Pasta alla Carbonara Fit", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Bresaola o guanciale sgrassato", "amount": "80g"}, {"name": "Uova", "amount": "2 pz"}, {"name": "Pecorino", "amount": "20g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake con Mandorle", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Mandorle", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Tagliata di Manzo Semplice", "ingredients": [{"name": "Scamone di manzo", "amount": "200g"}, {"name": "Rucola e grana", "amount": "50g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Freddo con Frutta", "ingredients": ["Fiocchi d'avena (60g)", "Yogurt bianco (150g)", "Fragole (80g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi con Ragù di Pollo", "ingredients": ["Gnocchi di patate (160g)", "Macinato di pollo (150g)", "Salsa di pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake Proteico", "ingredients": ["Farina d'avena (45g)", "Cacao (10g)", "Albume (60ml)", "Yogurt (30g)"]},
-          {"slot": "Cena", "title": "Trancio di Tonno e Patate", "ingredients": ["Tonno fresco (200g)", "Patate al forno (200g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Porridge Freddo con Frutta", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Yogurt bianco", "amount": "150g"}, {"name": "Fragole", "amount": "80g"}]},
+          {"slot": "Pranzo", "title": "Gnocchi con Ragù di Pollo", "ingredients": [{"name": "Gnocchi di patate", "amount": "160g"}, {"name": "Macinato di pollo", "amount": "150g"}, {"name": "Salsa di pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake Proteico", "ingredients": [{"name": "Farina d'avena", "amount": "45g"}, {"name": "Cacao", "amount": "10g"}, {"name": "Albume", "amount": "60ml"}, {"name": "Yogurt", "amount": "30g"}]},
+          {"slot": "Cena", "title": "Trancio di Tonno e Patate", "ingredients": [{"name": "Tonno fresco", "amount": "200g"}, {"name": "Patate al forno", "amount": "200g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       }
     ]
@@ -187,58 +697,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Colazione Fit Leggera", "ingredients": ["Yogurt greco 0% (180g)", "Avena (40g)", "Lampone (40g)"]},
-          {"slot": "Pranzo", "title": "Petto di Pollo e Riso Basmati", "ingredients": ["Petto di pollo (180g)", "Riso basmati (80g)", "Verdure al vapore (200g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Post", "ingredients": ["Proteine whey (30g)", "Acqua o latte scremato (250ml)"]},
-          {"slot": "Cena", "title": "Merluzzo al Forno con Zucchine", "ingredients": ["Filetti di merluzzo (220g)", "Zucchine (250g)", "Olio evo (10g)", "Pane integrale (40g)"]}
+          {"slot": "Colazione", "title": "Colazione Fit Leggera", "ingredients": [{"name": "Yogurt greco 0%", "amount": "180g"}, {"name": "Avena", "amount": "40g"}, {"name": "Lamponi", "amount": "40g"}]},
+          {"slot": "Pranzo", "title": "Petto di Pollo e Riso Basmati", "ingredients": [{"name": "Petto di pollo", "amount": "180g"}, {"name": "Riso basmati", "amount": "80g"}, {"name": "Verdure al vapore", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Post", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Acqua o latte scremato", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Merluzzo al Forno con Zucchine", "ingredients": [{"name": "Filetti di merluzzo", "amount": "220g"}, {"name": "Zucchine", "amount": "250g"}, {"name": "Olio evo", "amount": "10g"}, {"name": "Pane integrale", "amount": "40g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake d'Albume Light", "ingredients": ["Albumi (180ml)", "Farina d'avena (40g)", "Cacao amaro (10g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale con Tonno", "ingredients": ["Pasta integrale (80g)", "Tonno in scatola al naturale (120g)", "Pomodorini (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Noci", "ingredients": ["Yogurt greco 0% (150g)", "Noci (10g)"]},
-          {"slot": "Cena", "title": "Bistecca di Tacchino e Insalata", "ingredients": ["Fettine di tacchino (200g)", "Insalata mista (200g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Pancake d'Albume Light", "ingredients": [{"name": "Albumi", "amount": "180ml"}, {"name": "Farina d'avena", "amount": "40g"}, {"name": "Cacao amaro", "amount": "10g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale con Tonno", "ingredients": [{"name": "Pasta integrale", "amount": "80g"}, {"name": "Tonno in scatola al naturale", "amount": "120g"}, {"name": "Pomodorini", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Noci", "ingredients": [{"name": "Yogurt greco 0%", "amount": "150g"}, {"name": "Noci", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Bistecca di Tacchino e Insalata", "ingredients": [{"name": "Fettine di tacchino", "amount": "200g"}, {"name": "Insalata mista", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge d'Avena Light", "ingredients": ["Fiocchi d'avena (45g)", "Latte scremato (200ml)", "Cannella"]},
-          {"slot": "Pranzo", "title": "Manzo ai Ferri con Riso", "ingredients": ["Carne magra di manzo (160g)", "Riso basmati (80g)", "Broccoli (200g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Whey", "ingredients": ["Crema di riso (40g)", "Proteine whey (25g)", "Acqua (200ml)"]},
-          {"slot": "Cena", "title": "Orata e Finocchi", "ingredients": ["Orata (200g)", "Finocchi al forno (200g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Porridge d'Avena Light", "ingredients": [{"name": "Fiocchi d'avena", "amount": "45g"}, {"name": "Latte scremato", "amount": "200ml"}, {"name": "Cannella", "amount": "q.b."}]},
+          {"slot": "Pranzo", "title": "Manzo ai Ferri con Riso", "ingredients": [{"name": "Carne magra di manzo", "amount": "160g"}, {"name": "Riso basmati", "amount": "80g"}, {"name": "Broccoli", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Whey", "ingredients": [{"name": "Crema di riso", "amount": "40g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Acqua", "amount": "200ml"}]},
+          {"slot": "Cena", "title": "Orata e Finocchi", "ingredients": [{"name": "Orata", "amount": "200g"}, {"name": "Finocchi al forno", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino Fit Veloce", "ingredients": ["Farina d'avena (45g)", "Uovo (1)", "Latte scremato (50ml)"]},
-          {"slot": "Pranzo", "title": "Pasta con Sugo di Magro e Pollo", "ingredients": ["Pasta di semola (80g)", "Petto di pollo a pezzetti (150g)", "Passata di pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt e Frutti di Bosco", "ingredients": ["Yogurt greco (150g)", "Frutti di bosco (60g)"]},
-          {"slot": "Cena", "title": "Lombo di Maiale Magro", "ingredients": ["Lombo di maiale (180g)", "Insalata verde (200g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Tortino Fit Veloce", "ingredients": [{"name": "Farina d'avena", "amount": "45g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Latte scremato", "amount": "50ml"}]},
+          {"slot": "Pranzo", "title": "Pasta con Sugo di Magro e Pollo", "ingredients": [{"name": "Pasta di semola", "amount": "80g"}, {"name": "Petto di pollo a pezzetti", "amount": "150g"}, {"name": "Passata di pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt e Frutti di Bosco", "ingredients": [{"name": "Yogurt greco", "amount": "150g"}, {"name": "Frutti di bosco", "amount": "60g"}]},
+          {"slot": "Cena", "title": "Lombo di Maiale Magro", "ingredients": [{"name": "Lombo di maiale", "amount": "180g"}, {"name": "Insalata verde", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Proteico Light", "ingredients": ["Farina d'avena (45g)", "Albume (100ml)", "Lievito"]},
-          {"slot": "Pranzo", "title": "Riso con Sgombro", "ingredients": ["Riso parboiled (80g)", "Sgombro al naturale (120g)", "Spinaci (200g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake con Mandorle", "ingredients": ["Proteine whey (30g)", "Latte scremato (200ml)", "Mandorle (10g)"]},
-          {"slot": "Cena", "title": "Salmone Light con Verdure", "ingredients": ["Salmone (180g)", "Zucchine (200g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Waffle Proteico Light", "ingredients": [{"name": "Farina d'avena", "amount": "45g"}, {"name": "Albume", "amount": "100ml"}, {"name": "Lievito", "amount": "q.b."}]},
+          {"slot": "Pranzo", "title": "Riso con Sgombro", "ingredients": [{"name": "Riso parboiled", "amount": "80g"}, {"name": "Sgombro al naturale", "amount": "120g"}, {"name": "Spinaci", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake con Mandorle", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte scremato", "amount": "200ml"}, {"name": "Mandorle", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Salmone Light con Verdure", "ingredients": [{"name": "Salmone", "amount": "180g"}, {"name": "Zucchine", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake di Riso", "ingredients": ["Farina di riso (45g)", "Albumi (150ml)", "Miele (10g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi con Petto di Pollo", "ingredients": ["Gnocchi di patate (140g)", "Petto di pollo (150g)", "Pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Cacao", "ingredients": ["Yogurt greco (150g)", "Cacao amaro (10g)"]},
-          {"slot": "Cena", "title": "Filetto di Manzo e Rucola", "ingredients": ["Filetto di manzo (180g)", "Rucola (100g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Pancake di Riso", "ingredients": [{"name": "Farina di riso", "amount": "45g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Miele", "amount": "10g"}]},
+          {"slot": "Pranzo", "title": "Gnocchi con Petto di Pollo", "ingredients": [{"name": "Gnocchi di patate", "amount": "140g"}, {"name": "Petto di pollo", "amount": "150g"}, {"name": "Pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Cacao", "ingredients": [{"name": "Yogurt greco", "amount": "150g"}, {"name": "Cacao amaro", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Filetto di Manzo e Rucola", "ingredients": [{"name": "Filetto di manzo", "amount": "180g"}, {"name": "Rucola", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge con Mele", "ingredients": ["Fiocchi d'avena (45g)", "Mela (80g)", "Latte scremato (200ml)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale con Tacchino", "ingredients": ["Pasta integrale (80g)", "Macinato di tacchino (150g)", "Salsa di pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Proteine in Polvere e Acqua", "ingredients": ["Proteine whey (30g)", "Acqua"]},
-          {"slot": "Cena", "title": "Trancio di Tonno e Insalata", "ingredients": ["Tonno fresco (180g)", "Insalata verde (200g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Porridge con Mele", "ingredients": [{"name": "Fiocchi d'avena", "amount": "45g"}, {"name": "Mela", "amount": "80g"}, {"name": "Latte scremato", "amount": "200ml"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale con Tacchino", "ingredients": [{"name": "Pasta integrale", "amount": "80g"}, {"name": "Macinato di tacchino", "amount": "150g"}, {"name": "Salsa di pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Proteine in Polvere e Acqua", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Acqua", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Trancio di Tonno e Insalata", "ingredients": [{"name": "Tonno fresco", "amount": "180g"}, {"name": "Insalata verde", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       }
     ]
@@ -248,58 +758,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Energetico Avena e Cioccolato", "ingredients": ["Farina d'avena (65g)", "Albumi (150ml)", "Cioccolato fondente (20g)", "Yogurt greco (50g)"]},
-          {"slot": "Pranzo", "title": "Pasta e Filetto di Manzo", "ingredients": ["Pasta di semola (100g)", "Filetto di manzo (180g)", "Olio evo (15g)", "Pomodorini"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Budino Proteico Fit", "ingredients": ["Yogurt greco (200g)", "Proteine whey (25g)", "Mandorle (15g)"]},
-          {"slot": "Cena", "title": "Pollo al Forno con Patate", "ingredients": ["Coscia o petto di pollo al forno (200g)", "Patate (250g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Pancake Energetico Avena e Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "65g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Cioccolato fondente", "amount": "20g"}, {"name": "Yogurt greco", "amount": "50g"}]},
+          {"slot": "Pranzo", "title": "Pasta e Filetto di Manzo", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Filetto di manzo", "amount": "180g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pomodorini", "amount": "50g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Budino Proteico Fit", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Mandorle", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Pollo al Forno con Patate", "ingredients": [{"name": "Petto di pollo al forno", "amount": "200g"}, {"name": "Patate", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Cremoso al Burro d'Arachidi", "ingredients": ["Fiocchi d'avena (60g)", "Latte (220ml)", "Burro d'arachidi (20g)", "Banana (80g)"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Straccetti di Tacchino", "ingredients": ["Riso basmati (100g)", "Tacchino a straccetti (200g)", "Peperoni (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Cacao", "ingredients": ["Crema di riso (50g)", "Proteine whey (25g)", "Acqua o latte (250ml)"]},
-          {"slot": "Cena", "title": "Maiale con Verdure Saltate", "ingredients": ["Lombo di maiale (200g)", "Verdure miste (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "Porridge Cremoso al Burro d'Arachidi", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Latte", "amount": "220ml"}, {"name": "Burro d'arachidi", "amount": "20g"}, {"name": "Banana", "amount": "80g"}]},
+          {"slot": "Pranzo", "title": "Riso Basmati e Straccetti di Tacchino", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Tacchino a straccetti", "amount": "200g"}, {"name": "Peperoni", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Cacao", "ingredients": [{"name": "Crema di riso", "amount": "50g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Acqua o latte", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Maiale con Verdure Saltate", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Verdure miste", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino di Riso e Uova", "ingredients": ["Farina di riso (60g)", "Uova (1)", "Albume (100ml)", "Miele (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale con Tonno e Olive", "ingredients": ["Pasta integrale (100g)", "Tonno in scatola (150g)", "Olive nere (30g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Avanzato", "ingredients": ["Proteine whey (30g)", "Latte (250ml)", "Avena istantanea (20g)"]},
-          {"slot": "Cena", "title": "Salmone con Patate Lesse", "ingredients": ["Salmone fresco (200g)", "Patate (200g)", "Olio evo (10g)", "Limone"]}
+          {"slot": "Colazione", "title": "Tortino di Riso e Uova", "ingredients": [{"name": "Farina di riso", "amount": "60g"}, {"name": "Uova", "amount": "1 pz"}, {"name": "Albume", "amount": "100ml"}, {"name": "Miele", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale con Tonno e Olive", "ingredients": [{"name": "Pasta integrale", "amount": "100g"}, {"name": "Tonno in scatola", "amount": "150g"}, {"name": "Olive nere", "amount": "30g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Avanzato", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Avena istantanea", "amount": "20g"}]},
+          {"slot": "Cena", "title": "Salmone con Patate Lesse", "ingredients": [{"name": "Salmone fresco", "amount": "200g"}, {"name": "Patate", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}, {"name": "Limone", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Proteico al Cioccolato", "ingredients": ["Farina d'avena (60g)", "Cacao (10g)", "Albume (120ml)", "Crema spalmabile fit (15g)"]},
-          {"slot": "Pranzo", "title": "Riso con Ragù di Manzo", "ingredients": ["Riso parboiled (100g)", "Macinato di manzo (160g)", "Passata di pomodoro (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Frutti di Bosco", "ingredients": ["Yogurt greco (200g)", "Frutti di bosco (80g)", "Noci (10g)"]},
-          {"slot": "Cena", "title": "Trancio di Tonno alla Piastra", "ingredients": ["Tonno fresco (200g)", "Insalata mista (200g)", "Olio evo (15g)", "Pane di semola (50g)"]}
+          {"slot": "Colazione", "title": "Waffle Proteico al Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Cacao", "amount": "10g"}, {"name": "Albume", "amount": "120ml"}, {"name": "Crema spalmabile fit", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Riso con Ragù di Manzo", "ingredients": [{"name": "Riso parboiled", "amount": "100g"}, {"name": "Macinato di manzo", "amount": "160g"}, {"name": "Passata di pomodoro", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Frutti di Bosco", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Frutti di bosco", "amount": "80g"}, {"name": "Noci", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Trancio di Tonno alla Piastra", "ingredients": [{"name": "Tonno fresco", "amount": "200g"}, {"name": "Insalata mista", "amount": "200g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane di semola", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Morbido con Yogurt", "ingredients": ["Farina d'avena (60g)", "Albumi (140ml)", "Yogurt greco per farcire (80g)"]},
-          {"slot": "Pranzo", "title": "Pasta con Petto di Pollo e Zucchine", "ingredients": ["Pasta di semola (100g)", "Petto di pollo (160g)", "Zucchine (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Microonde", "ingredients": ["Farina d'avena (45g)", "Albume (60ml)", "Cacao (10g)", "Latte (30ml)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale e Patate", "ingredients": ["Bistecca di maiale (200g)", "Patate al forno (220g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Pancake Morbido con Yogurt", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Albumi", "amount": "140ml"}, {"name": "Yogurt greco per farcire", "amount": "80g"}]},
+          {"slot": "Pranzo", "title": "Pasta con Petto di Pollo e Zucchine", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Petto di pollo", "amount": "160g"}, {"name": "Zucchine", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Microonde", "ingredients": [{"name": "Farina d'avena", "amount": "45g"}, {"name": "Albume", "amount": "60ml"}, {"name": "Cacao", "amount": "10g"}, {"name": "Latte", "amount": "30ml"}]},
+          {"slot": "Cena", "title": "Bistecca di Maiale e Patate", "ingredients": [{"name": "Bistecca di maiale", "amount": "200g"}, {"name": "Patate al forno", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "French Toast Proteico", "ingredients": ["Pane integrale (2 fette)", "Albume (80ml)", "Cannella", "Miele (15g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi con Sugo di Manzo", "ingredients": ["Gnocchi di patate (160g)", "Macinato di manzo (140g)", "Pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Banana e Whey", "ingredients": ["Banana (100g)", "Proteine whey (30g)", "Latte (200ml)"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo con Rucola", "ingredients": ["Scamone di manzo (200g)", "Rucola e pomodorini (100g)", "Olio evo (15g)", "Pane (40g)"]}
+          {"slot": "Colazione", "title": "French Toast Proteico", "ingredients": [{"name": "Pane integrale", "amount": "2 fette"}, {"name": "Albume", "amount": "80ml"}, {"name": "Cannella", "amount": "q.b."}, {"name": "Miele", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Gnocchi con Sugo di Manzo", "ingredients": [{"name": "Gnocchi di patate", "amount": "160g"}, {"name": "Macinato di manzo", "amount": "140g"}, {"name": "Pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Banana e Whey", "ingredients": [{"name": "Banana", "amount": "100g"}, {"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "200ml"}]},
+          {"slot": "Cena", "title": "Tagliata di Manzo con Rucola", "ingredients": [{"name": "Scamone di manzo", "amount": "200g"}, {"name": "Rucola e pomodorini", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "40g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Freddo con Frutta", "ingredients": ["Fiocchi d'avena (60g)", "Yogurt greco (120g)", "Latte (100ml)", "Mirtilli (50g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù di Tacchino", "ingredients": ["Pasta integrale (100g)", "Macinato di tacchino (160g)", "Passata di pomodoro (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso Dolce", "ingredients": ["Crema di riso (50g)", "Proteine whey (25g)", "Acqua calda (250ml)"]},
-          {"slot": "Cena", "title": "Orata al Forno con Contorno", "ingredients": ["Orata (200g)", "Verdure miste (250g)", "Olio evo (15g)", "Pane di segale (50g)"]}
+          {"slot": "Colazione", "title": "Porridge Freddo con Frutta", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Yogurt greco", "amount": "120g"}, {"name": "Latte", "amount": "100ml"}, {"name": "Mirtilli", "amount": "50g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù di Tacchino", "ingredients": [{"name": "Pasta integrale", "amount": "100g"}, {"name": "Macinato di tacchino", "amount": "160g"}, {"name": "Passata di pomodoro", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso Dolce", "ingredients": [{"name": "Crema di riso", "amount": "50g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Acqua calda", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Orata al Forno con Contorno", "ingredients": [{"name": "Orata", "amount": "200g"}, {"name": "Verdure miste", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane di segale", "amount": "50g"}]}
         ]
       }
     ]
@@ -309,58 +819,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Ricco con Crema di Mandorle", "ingredients": ["Farina d'avena (60g)", "Albumi (150ml)", "Crema di mandorle (20g)", "Miele (10g)"]},
-          {"slot": "Pranzo", "title": "Pasta e Diaframma", "ingredients": ["Pasta di semola (100g)", "Diaframma di manzo (180g)", "Olio evo (15g)", "Pomodorini"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Whey al Caffè", "ingredients": ["Yogurt greco (200g)", "Proteine whey al caffè (25g)", "Cioccolato fondente (10g)"]},
-          {"slot": "Cena", "title": "Lombo di Maiale con Patate", "ingredients": ["Lombo di maiale (200g)", "Patate al forno (250g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Pancake Ricco con Crema di Mandorle", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Crema di mandorle", "amount": "20g"}, {"name": "Miele", "amount": "10g"}]},
+          {"slot": "Pranzo", "title": "Pasta e Diaframma", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Diaframma di manzo", "amount": "180g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pomodorini", "amount": "50g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt Greco e Whey al Caffè", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Proteine whey al caffè", "amount": "25g"}, {"name": "Cioccolato fondente", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Lombo di Maiale con Patate", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Patate al forno", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino Cacao e Uova", "ingredients": ["Farina d'avena (55g)", "Cacao (15g)", "Uovo (1)", "Latte (80ml)"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo Speziato", "ingredients": ["Riso basmati (100g)", "Petto di pollo (200g)", "Peperoni e cipolla", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Bowl Avena e Yogurt", "ingredients": ["Avena istantanea (50g)", "Yogurt magro (150g)", "Crema di arachidi (15g)"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo e Verdure", "ingredients": ["Scamone (220g)", "Zucchine e melanzane (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "Tortino Cacao e Uova", "ingredients": [{"name": "Farina d'avena", "amount": "55g"}, {"name": "Cacao", "amount": "15g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Latte", "amount": "80ml"}]},
+          {"slot": "Pranzo", "title": "Riso Basmati e Pollo Speziato", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Petto di pollo", "amount": "200g"}, {"name": "Peperoni e cipolla", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Bowl Avena e Yogurt", "ingredients": [{"name": "Avena istantanea", "amount": "50g"}, {"name": "Yogurt magro", "amount": "150g"}, {"name": "Crema di arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Tagliata di Manzo e Verdure", "ingredients": [{"name": "Scamone", "amount": "220g"}, {"name": "Zucchine e melanzane", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Proteico Vaniglia", "ingredients": ["Fiocchi d'avena (60g)", "Latte (200ml)", "Proteine whey (25g)", "Mirtilli (50g)"]},
-          {"slot": "Pranzo", "title": "Quesadilla con Manzo", "ingredients": ["Tortillas (2)", "Macinato di manzo (180g)", "Formaggio light (40g)", "Salsa"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Plumcake Fit", "ingredients": ["Farina d'avena (50g)", "Albume (100ml)", "Yogurt (50g)"]},
-          {"slot": "Cena", "title": "Salmone al Forno con Patate", "ingredients": ["Salmone (200g)", "Patate novelle (200g)", "Olio evo (10g)", "Insalata"]}
+          {"slot": "Colazione", "title": "Porridge Proteico Vaniglia", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Latte", "amount": "200ml"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Mirtilli", "amount": "50g"}]},
+          {"slot": "Pranzo", "title": "Quesadilla con Manzo", "ingredients": [{"name": "Tortillas", "amount": "2 pz"}, {"name": "Macinato di manzo", "amount": "180g"}, {"name": "Formaggio light", "amount": "40g"}, {"name": "Salsa", "amount": "q.b."}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Plumcake Fit", "ingredients": [{"name": "Farina d'avena", "amount": "50g"}, {"name": "Albume", "amount": "100ml"}, {"name": "Yogurt", "amount": "50g"}]},
+          {"slot": "Cena", "title": "Salmone al Forno con Patate", "ingredients": [{"name": "Salmone", "amount": "200g"}, {"name": "Patate novelle", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}, {"name": "Insalata", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Fit Cioccolato", "ingredients": ["Farina d'avena (60g)", "Uovo (1)", "Albume (50ml)", "Crema proteica (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù", "ingredients": ["Pasta integrale (100g)", "Macinato di manzo (160g)", "Pomodoro (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso al Cacao", "ingredients": ["Crema di riso (50g)", "Proteine whey (30g)", "Latte (250ml)"]},
-          {"slot": "Cena", "title": "Pan Pizza Fit", "ingredients": ["Farina Molino Vigevano Vesuvio (180g)", "Mozzarella (100g)", "Pomodoro (80g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Waffle Fit Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Albume", "amount": "50ml"}, {"name": "Crema proteica", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù", "ingredients": [{"name": "Pasta integrale", "amount": "100g"}, {"name": "Macinato di manzo", "amount": "160g"}, {"name": "Pomodoro", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso al Cacao", "ingredients": [{"name": "Crema di riso", "amount": "50g"}, {"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Pan Pizza Fit", "ingredients": [{"name": "Farina Molino Vigevano Vesuvio", "amount": "180g"}, {"name": "Mozzarella", "amount": "100g"}, {"name": "Pomodoro", "amount": "80g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Coppa Avena e Ricotta", "ingredients": ["Avena (50g)", "Ricotta (100g)", "Miele (15g)", "Noci (15g)"]},
-          {"slot": "Pranzo", "title": "Pollo alla Piastra e Riso", "ingredients": ["Petto di pollo (200g)", "Riso parboiled (100g)", "Olio evo (15g)", "Verdure al vapore"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake Cioccolato", "ingredients": ["Farina d'avena (40g)", "Cacao (10g)", "Albume (60ml)", "Cioccolato (10g)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale e Insalata", "ingredients": ["Maiale (200g)", "Olio evo (15g)", "Pane (60g)", "Insalata"]}
+          {"slot": "Colazione", "title": "Coppa Avena e Ricotta", "ingredients": [{"name": "Avena", "amount": "50g"}, {"name": "Ricotta", "amount": "100g"}, {"name": "Miele", "amount": "15g"}, {"name": "Noci", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pollo alla Piastra e Riso", "ingredients": [{"name": "Petto di pollo", "amount": "200g"}, {"name": "Riso parboiled", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Verdure al vapore", "amount": "150g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "40g"}, {"name": "Cacao", "amount": "10g"}, {"name": "Albume", "amount": "60ml"}, {"name": "Cioccolato fondente", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Bistecca di Maiale e Insalata", "ingredients": [{"name": "Bistecca di maiale", "amount": "200g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "60g"}, {"name": "Insalata", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Yogurt e Frutta", "ingredients": ["Farina d'avena (55g)", "Albumi (140ml)", "Yogurt greco (80g)", "Fragole (60g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi al Ragù di Manzo", "ingredients": ["Gnocchi (160g)", "Macinato di manzo (120g)", "Pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Saziante", "ingredients": ["Proteine (30g)", "Latte (250ml)", "Burro d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Tonno alla Griglia e Patate", "ingredients": ["Tonno (200g)", "Patate (220g)", "Olio evo (15g)", "Limone"]}
+          {"slot": "Colazione", "title": "Pancake Yogurt e Frutta", "ingredients": [{"name": "Farina d'avena", "amount": "55g"}, {"name": "Albumi", "amount": "140ml"}, {"name": "Yogurt greco", "amount": "80g"}, {"name": "Fragole", "amount": "60g"}]},
+          {"slot": "Pranzo", "title": "Gnocchi al Ragù di Manzo", "ingredients": [{"name": "Gnocchi", "amount": "160g"}, {"name": "Macinato di manzo", "amount": "120g"}, {"name": "Pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Saziante", "ingredients": [{"name": "Proteine in polvere", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Burro d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Tonno alla Griglia e Patate", "ingredients": [{"name": "Tonno", "amount": "200g"}, {"name": "Patate", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Limone", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "French Toast Fit", "ingredients": ["Pane integrale (2 fette)", "Albume (80ml)", "Sciroppo d'acero (15g)"]},
-          {"slot": "Pranzo", "title": "Bowl Riso e Manzo", "ingredients": ["Riso basmati (100g)", "Straccetti di manzo (180g)", "Avocado (50g)", "Salsa di soia (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Tortino in Tazza Vaniglia", "ingredients": ["Farina di riso (45g)", "Whey vaniglia (20g)", "Yogurt (40g)"]},
-          {"slot": "Cena", "title": "Arrosto di Maiale con Verdure", "ingredients": ["Lombo di maiale (200g)", "Carote e finocchi (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "French Toast Fit", "ingredients": [{"name": "Pane integrale", "amount": "2 fette"}, {"name": "Albume", "amount": "80ml"}, {"name": "Sciroppo d'acero", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Bowl Riso e Manzo", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Straccetti di manzo", "amount": "180g"}, {"name": "Avocado", "amount": "50g"}, {"name": "Salsa di soia", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Tortino in Tazza Vaniglia", "ingredients": [{"name": "Farina di riso", "amount": "45g"}, {"name": "Whey vaniglia", "amount": "20g"}, {"name": "Yogurt", "amount": "40g"}]},
+          {"slot": "Cena", "title": "Arrosto di Maiale con Verdure", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Carote e finocchi", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       }
     ]
@@ -370,58 +880,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Super Avena", "ingredients": ["Farina d'avena (70g)", "Albumi (160ml)", "Yogurt greco (100g)", "Miele (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta, Manzo e Parmigiano", "ingredients": ["Pasta (110g)", "Manzo (190g)", "Parmigiano (20g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico con Avena", "ingredients": ["Whey (30g)", "Avena istantanea (30g)", "Latte (250ml)"]},
-          {"slot": "Cena", "title": "Pollo al Forno con Patate Abbondanti", "ingredients": ["Pollo (220g)", "Patate (280g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Pancake Super Avena", "ingredients": [{"name": "Farina d'avena", "amount": "70g"}, {"name": "Albumi", "amount": "160ml"}, {"name": "Yogurt greco", "amount": "100g"}, {"name": "Miele", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta, Manzo e Parmigiano", "ingredients": [{"name": "Pasta di semola", "amount": "110g"}, {"name": "Manzo", "amount": "190g"}, {"name": "Parmigiano", "amount": "20g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico con Avena", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Avena istantanea", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Pollo al Forno con Patate Abbondanti", "ingredients": [{"name": "Petto di pollo", "amount": "220g"}, {"name": "Patate", "amount": "280g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Ricco con Banana", "ingredients": ["Fiocchi d'avena (70g)", "Latte (250ml)", "Burro d'arachidi (20g)", "Banana (100g)"]},
-          {"slot": "Pranzo", "title": "Riso e Tacchino Speziato", "ingredients": ["Riso basmati (110g)", "Tacchino (200g)", "Peperoni e zucchine (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Yogurt e Mandorle", "ingredients": ["Yogurt greco (200g)", "Mandorle (20g)"]},
-          {"slot": "Cena", "title": "Maiale e Pane Casereccio", "ingredients": ["Lombo di maiale (220g)", "Pane (60g)", "Insalata mista", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Porridge Ricco con Banana", "ingredients": [{"name": "Fiocchi d'avena", "amount": "70g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Burro d'arachidi", "amount": "20g"}, {"name": "Banana", "amount": "100g"}]},
+          {"slot": "Pranzo", "title": "Riso e Tacchino Speziato", "ingredients": [{"name": "Riso basmati", "amount": "110g"}, {"name": "Tacchino", "amount": "200g"}, {"name": "Peperoni e zucchine", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Yogurt e Mandorle", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Mandorle", "amount": "20g"}]},
+          {"slot": "Cena", "title": "Maiale e Pane Casereccio", "ingredients": [{"name": "Lombo di maiale", "amount": "220g"}, {"name": "Pane", "amount": "60g"}, {"name": "Insalata mista", "amount": "q.b."}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Crema di Riso Energetica", "ingredients": ["Crema di riso (70g)", "Uova (2)", "Cacao (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale con Tonno e Pomodoro", "ingredients": ["Pasta integrale (110g)", "Tonno (180g)", "Pomodoro (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Pudding Proteico", "ingredients": ["Yogurt greco (200g)", "Whey (25g)", "Noci (15g)"]},
-          {"slot": "Cena", "title": "Salmone e Riso", "ingredients": ["Salmone (200g)", "Riso basmati (60g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Crema di Riso Energetica", "ingredients": [{"name": "Crema di riso", "amount": "70g"}, {"name": "Uova", "amount": "2 pz"}, {"name": "Cacao", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale con Tonno e Pomodoro", "ingredients": [{"name": "Pasta integrale", "amount": "110g"}, {"name": "Tonno", "amount": "180g"}, {"name": "Pomodoro", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Pudding Proteico", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Noci", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Salmone e Riso", "ingredients": [{"name": "Salmone", "amount": "200g"}, {"name": "Riso basmati", "amount": "60g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino di Avena e Cioccolato", "ingredients": ["Farina d'avena (65g)", "Albume (150ml)", "Cioccolato fondente (20g)"]},
-          {"slot": "Pranzo", "title": "Riso con Straccetti di Vitello", "ingredients": ["Riso parboiled (110g)", "Vitello (190g)", "Zucchine (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Whey e Frutta", "ingredients": ["Whey (30g)", "Latte (250ml)", "Frutti di bosco (80g)"]},
-          {"slot": "Cena", "title": "Pan Pizza con Mozzarella", "ingredients": ["Farina Molino Vigevano Vesuvio (200g)", "Mozzarella (120g)", "Pomodoro (100g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Tortino di Avena e Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "65g"}, {"name": "Albume", "amount": "150ml"}, {"name": "Cioccolato fondente", "amount": "20g"}]},
+          {"slot": "Pranzo", "title": "Riso con Straccetti di Vitello", "ingredients": [{"name": "Riso parboiled", "amount": "110g"}, {"name": "Vitello", "amount": "190g"}, {"name": "Zucchine", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Whey e Frutta", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Frutti di bosco", "amount": "80g"}]},
+          {"slot": "Cena", "title": "Pan Pizza con Mozzarella", "ingredients": [{"name": "Farina Molino Vigevano Vesuvio", "amount": "200g"}, {"name": "Mozzarella", "amount": "120g"}, {"name": "Pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Extra con Miele", "ingredients": ["Farina d'avena (70g)", "Uovo (1)", "Albume (60ml)", "Miele (20g)"]},
-          {"slot": "Pranzo", "title": "Pasta con Petto di Pollo", "ingredients": ["Pasta (110g)", "Pollo (200g)", "Funghi (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake Ricco", "ingredients": ["Farina d'avena (50g)", "Albume (70ml)", "Crema d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale e Patate", "ingredients": ["Maiale (220g)", "Patate al forno (250g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Waffle Extra con Miele", "ingredients": [{"name": "Farina d'avena", "amount": "70g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Albume", "amount": "60ml"}, {"name": "Miele", "amount": "20g"}]},
+          {"slot": "Pranzo", "title": "Pasta con Petto di Pollo", "ingredients": [{"name": "Pasta di semola", "amount": "110g"}, {"name": "Petto di pollo", "amount": "200g"}, {"name": "Funghi", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake Ricco", "ingredients": [{"name": "Farina d'avena", "amount": "50g"}, {"name": "Albume", "amount": "70ml"}, {"name": "Crema d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Bistecca di Maiale e Patate", "ingredients": [{"name": "Bistecca di maiale", "amount": "220g"}, {"name": "Patate al forno", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake di Riso e Albume", "ingredients": ["Farina di riso (70g)", "Albumi (160ml)", "Yogurt (80g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi con Ragù di Manzo", "ingredients": ["Gnocchi (180g)", "Macinato di manzo (160g)", "Pomodoro (120g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Post", "ingredients": ["Whey (30g)", "Latte (250ml)", "Burro d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Trancio di Tonno e Patate", "ingredients": ["Tonno (220g)", "Patate (220g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Pancake di Riso e Albume", "ingredients": [{"name": "Farina di riso", "amount": "70g"}, {"name": "Albumi", "amount": "160ml"}, {"name": "Yogurt greco", "amount": "80g"}]},
+          {"slot": "Pranzo", "title": "Gnocchi con Ragù di Manzo", "ingredients": [{"name": "Gnocchi", "amount": "180g"}, {"name": "Macinato di manzo", "amount": "160g"}, {"name": "Pomodoro", "amount": "120g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico Post", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Burro d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Trancio di Tonno e Patate", "ingredients": [{"name": "Trancio di tonno", "amount": "220g"}, {"name": "Patate", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Freddo Super", "ingredients": ["Fiocchi d'avena (70g)", "Yogurt greco (150g)", "Latte (100ml)", "Mirtilli (60g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale e Manzo", "ingredients": ["Pasta integrale (110g)", "Manzo (190g)", "Pomodorini (100g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Whey", "ingredients": ["Crema di riso (60g)", "Whey (25g)", "Acqua (250ml)"]},
-          {"slot": "Cena", "title": "Orata al Forno con Contorno", "ingredients": ["Orata (220g)", "Verdure (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "Porridge Freddo Super", "ingredients": [{"name": "Fiocchi d'avena", "amount": "70g"}, {"name": "Yogurt greco", "amount": "150g"}, {"name": "Latte", "amount": "100ml"}, {"name": "Mirtilli", "amount": "60g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale e Manzo", "ingredients": [{"name": "Pasta integrale", "amount": "110g"}, {"name": "Manzo", "amount": "190g"}, {"name": "Pomodorini", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Whey", "ingredients": [{"name": "Crema di riso", "amount": "60g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Acqua", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Orata al Forno con Contorno", "ingredients": [{"name": "Orata", "amount": "220g"}, {"name": "Verdure", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       }
     ]
@@ -431,58 +941,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteico Classico", "ingredients": ["Avena (60g)", "Albumi (150ml)", "Yogurt (100g)", "Cioccolato (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta e Diaframma", "ingredients": ["Pasta (100g)", "Diaframma (180g)", "Olio evo (15g)", "Basilico"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Budino Proteico ai Frutti di Bosco", "ingredients": ["Yogurt greco (200g)", "Whey vaniglia (25g)", "Frutti di bosco (80g)"]},
-          {"slot": "Cena", "title": "Maiale e Patate al Forno", "ingredients": ["Lombo di maiale (200g)", "Patate (250g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Pancake Proteico Classico", "ingredients": [{"name": "Avena", "amount": "60g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Yogurt", "amount": "100g"}, {"name": "Cioccolato", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta e Diaframma", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Diaframma", "amount": "180g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Basilico", "amount": "q.b."}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Budino ai Frutti di Bosco", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Proteine whey vaniglia", "amount": "25g"}, {"name": "Frutti di bosco", "amount": "80g"}]},
+          {"slot": "Cena", "title": "Maiale e Patate al Forno", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Patate", "amount": "250g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino Cacao e Mandorle", "ingredients": ["Farina d'avena (50g)", "Cacao (15g)", "Uovo (1)", "Burro di mandorle (15g)"]},
-          {"slot": "Pranzo", "title": "Riso Basmati e Pollo", "ingredients": ["Riso basmati (100g)", "Pollo (200g)", "Peperoni (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Bowl Avena e Yogurt", "ingredients": ["Avena istantanea (50g)", "Yogurt magro (150g)", "Crema di arachidi (15g)"]},
-          {"slot": "Cena", "title": "Tagliata di Manzo", "ingredients": ["Scamone (220g)", "Zucchine grigliate (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "Tortino Cacao e Mandorle", "ingredients": [{"name": "Farina d'avena", "amount": "50g"}, {"name": "Cacao", "amount": "15g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Burro di mandorle", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Riso Basmati e Pollo", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Pollo", "amount": "200g"}, {"name": "Peperoni", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Bowl Avena e Yogurt", "ingredients": [{"name": "Avena istantanea", "amount": "50g"}, {"name": "Yogurt magro", "amount": "150g"}, {"name": "Crema d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Tagliata di Manzo", "ingredients": [{"name": "Scamone", "amount": "220g"}, {"name": "Zucchine grigliate", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Cremoso Vaniglia", "ingredients": ["Fiocchi d'avena (60g)", "Latte (200ml)", "Whey (25g)", "Mirtilli (50g)"]},
-          {"slot": "Pranzo", "title": "Quesadilla con Manzo", "ingredients": ["Tortillas (2)", "Macinato di manzo (180g)", "Formaggio light (40g)", "Guacamole"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Plumcake allo Yogurt", "ingredients": ["Farina d'avena (50g)", "Albume (100ml)", "Yogurt (50g)"]},
-          {"slot": "Cena", "title": "Salmone al Forno", "ingredients": ["Salmone (200g)", "Patate novelle (200g)", "Olio evo (10g)", "Insalata"]}
+          {"slot": "Colazione", "title": "Porridge Cremoso Vaniglia", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Latte", "amount": "200ml"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Mirtilli", "amount": "50g"}]},
+          {"slot": "Pranzo", "title": "Quesadilla con Manzo", "ingredients": [{"name": "Tortillas", "amount": "2 pz"}, {"name": "Macinato di manzo", "amount": "180g"}, {"name": "Formaggio light", "amount": "40g"}, {"name": "Guacamole", "amount": "q.b."}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Plumcake allo Yogurt", "ingredients": [{"name": "Farina d'avena", "amount": "50g"}, {"name": "Albume", "amount": "100ml"}, {"name": "Yogurt", "amount": "50g"}]},
+          {"slot": "Cena", "title": "Salmone al Forno", "ingredients": [{"name": "Salmone", "amount": "200g"}, {"name": "Patate novelle", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}, {"name": "Insalata", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Fit con Cioccolato", "ingredients": ["Farina d'avena (60g)", "Uovo (1)", "Albume (50ml)", "Crema proteica (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù", "ingredients": ["Pasta integrale (100g)", "Macinato di manzo (160g)", "Pomodoro (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso al Cacao", "ingredients": ["Crema di riso (50g)", "Whey cioccolato (30g)", "Latte (250ml)"]},
-          {"slot": "Cena", "title": "Pan Pizza Alta Idratazione", "ingredients": ["Farina Molino Vigevano Vesuvio (180g)", "Mozzarella (100g)", "Pomodoro (80g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Waffle con Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Albume", "amount": "50ml"}, {"name": "Crema proteica", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù", "ingredients": [{"name": "Pasta integrale", "amount": "100g"}, {"name": "Macinato di manzo", "amount": "160g"}, {"name": "Pomodoro", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso al Cacao", "ingredients": [{"name": "Crema di riso", "amount": "50g"}, {"name": "Proteine whey cioccolato", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Pan Pizza Alta Idratazione", "ingredients": [{"name": "Farina Molino Vigevano Vesuvio", "amount": "180g"}, {"name": "Mozzarella", "amount": "100g"}, {"name": "Pomodoro", "amount": "80g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Coppa Avena e Ricotta", "ingredients": ["Avena (50g)", "Ricotta (100g)", "Miele (15g)", "Noci (15g)"]},
-          {"slot": "Pranzo", "title": "Pollo alla Piastra e Riso", "ingredients": ["Pollo (200g)", "Riso parboiled (100g)", "Olio evo (15g)", "Verdure"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Cioccolato", "ingredients": ["Farina d'avena (40g)", "Cacao (10g)", "Albume (60ml)", "Cioccolato (10g)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale e Insalata", "ingredients": ["Maiale (200g)", "Olio evo (15g)", "Pane (60g)", "Insalata"]}
+          {"slot": "Colazione", "title": "Coppa Avena e Ricotta", "ingredients": [{"name": "Avena", "amount": "50g"}, {"name": "Ricotta", "amount": "100g"}, {"name": "Miele", "amount": "15g"}, {"name": "Noci", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pollo alla Piastra e Riso", "ingredients": [{"name": "Pollo", "amount": "200g"}, {"name": "Riso parboiled", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Verdure", "amount": "150g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "40g"}, {"name": "Cacao", "amount": "10g"}, {"name": "Albume", "amount": "60ml"}, {"name": "Cioccolato", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Bistecca di Maiale e Insalata", "ingredients": [{"name": "Maiale", "amount": "200g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "60g"}, {"name": "Insalata", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Yogurt e Frutta", "ingredients": ["Farina d'avena (55g)", "Albumi (140ml)", "Yogurt greco (80g)", "Fragole (60g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi al Ragù di Manzo", "ingredients": ["Gnocchi (160g)", "Macinato di manzo (120g)", "Pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico", "ingredients": ["Whey (30g)", "Latte (250ml)", "Burro d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Tonno alla Griglia", "ingredients": ["Tonno (200g)", "Patate (220g)", "Olio evo (15g)", "Limone"]}
+          {"slot": "Colazione", "title": "Pancake Yogurt e Frutta", "ingredients": [{"name": "Farina d'avena", "amount": "55g"}, {"name": "Albumi", "amount": "140ml"}, {"name": "Yogurt greco", "amount": "80g"}, {"name": "Fragole", "amount": "60g"}]},
+          {"slot": "Pranzo", "title": "Gnocchi al Ragù", "ingredients": [{"name": "Gnocchi", "amount": "160g"}, {"name": "Macinato di manzo", "amount": "120g"}, {"name": "Pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Burro d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Tonno e Patate", "ingredients": [{"name": "Tonno", "amount": "200g"}, {"name": "Patate", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Limone", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "French Toast Fit", "ingredients": ["Pane integrale (2 fette)", "Albume (80ml)", "Sciroppo d'acero (15g)"]},
-          {"slot": "Pranzo", "title": "Bowl Riso e Manzo", "ingredients": ["Riso basmati (100g)", "Straccetti di manzo (180g)", "Avocado (50g)", "Salsa di soia (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Tortino in Tazza Vaniglia", "ingredients": ["Farina di riso (45g)", "Whey vaniglia (20g)", "Yogurt (40g)"]},
-          {"slot": "Cena", "title": "Arrosto di Maiale", "ingredients": ["Lombo di maiale (200g)", "Carote e finocchi (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "French Toast Fit", "ingredients": [{"name": "Pane integrale", "amount": "2 fette"}, {"name": "Albume", "amount": "80ml"}, {"name": "Sciroppo d'acero", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Bowl Riso e Manzo", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Straccetti di manzo", "amount": "180g"}, {"name": "Avocado", "amount": "50g"}, {"name": "Salsa di soia", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Tortino in Tazza", "ingredients": [{"name": "Farina di riso", "amount": "45g"}, {"name": "Proteine whey vaniglia", "amount": "20g"}, {"name": "Yogurt", "amount": "40g"}]},
+          {"slot": "Cena", "title": "Arrosto di Maiale", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Carote e finocchi", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       }
     ]
@@ -492,58 +1002,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Cioccolato e Mandorle", "ingredients": ["Farina d'avena al cioccolato (60g)", "Albumi (150ml)", "Crema di mandorle (15g)", "Cioccolato (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta al Ragù Bianco di Maiale", "ingredients": ["Pasta (100g)", "Macinato di maiale (180g)", "Rosmarino e vino", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Budino al Caffè", "ingredients": ["Yogurt greco (200g)", "Caffè espresso (1 tazzina)", "Whey al caffè (25g)"]},
-          {"slot": "Cena", "title": "Tagliata di Diaframma", "ingredients": ["Diaframma (200g)", "Chimichurri", "Verdure grigliate (250g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Pancake Cioccolato e Mandorle", "ingredients": [{"name": "Farina d'avena al cioccolato", "amount": "60g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Crema di mandorle", "amount": "15g"}, {"name": "Cioccolato", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta al Ragù Bianco di Maiale", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Macinato di maiale", "amount": "180g"}, {"name": "Rosmarino e vino", "amount": "q.b."}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Budino al Caffè", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Caffè espresso", "amount": "1 tazzina"}, {"name": "Proteine whey al caffè", "amount": "25g"}]},
+          {"slot": "Cena", "title": "Tagliata di Diaframma", "ingredients": [{"name": "Diaframma", "amount": "200g"}, {"name": "Chimichurri", "amount": "q.b."}, {"name": "Verdure grigliate", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge con Burro d'Arachidi", "ingredients": ["Fiocchi d'avena (60g)", "Latte (220ml)", "Burro d'arachidi (20g)", "Banana (80g)"]},
-          {"slot": "Pranzo", "title": "Riso Saltato con Pollo", "ingredients": ["Riso basmati (100g)", "Pollo (200g)", "Mix verdure (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Muffin Fit al Cacao", "ingredients": ["Farina d'avena (50g)", "Cacao (15g)", "Albume (100ml)", "Yogurt (50g)"]},
-          {"slot": "Cena", "title": "Filetto di Maiale in Crosta", "ingredients": ["Filetto di maiale (200g)", "Patate dolci (220g)", "Olio evo (15g)", "Insalata"]}
+          {"slot": "Colazione", "title": "Porridge con Burro d'Arachidi", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Latte", "amount": "220ml"}, {"name": "Burro d'arachidi", "amount": "20g"}, {"name": "Banana", "amount": "80g"}]},
+          {"slot": "Pranzo", "title": "Riso Saltato con Pollo", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Pollo", "amount": "200g"}, {"name": "Mix verdure", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Muffin Fit al Cacao", "ingredients": [{"name": "Farina d'avena", "amount": "50g"}, {"name": "Cacao", "amount": "15g"}, {"name": "Albume", "amount": "100ml"}, {"name": "Yogurt", "amount": "50g"}]},
+          {"slot": "Cena", "title": "Filetto di Maiale in Crosta", "ingredients": [{"name": "Filetto di maiale", "amount": "200g"}, {"name": "Patate dolci", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Insalata", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake di Riso", "ingredients": ["Farina di riso (60g)", "Albumi (150ml)", "Miele (15g)", "Frutti di bosco (50g)"]},
-          {"slot": "Pranzo", "title": "Gulasch Ungherese Fit", "ingredients": ["Manzo magro (200g)", "Paprika", "Passata di pomodoro (100g)", "Patate lesse (200g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Coppa Fresca Yogurt e Whey", "ingredients": ["Yogurt greco (200g)", "Whey biscotto (25g)", "Mandorle (15g)"]},
-          {"slot": "Cena", "title": "Burger di Manzo Fatto in Casa", "ingredients": ["Macinato di manzo (200g)", "Pane per burger (1 pz)", "Insalata e pomodoro", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Pancake di Riso", "ingredients": [{"name": "Farina di riso", "amount": "60g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Miele", "amount": "15g"}, {"name": "Frutti di bosco", "amount": "50g"}]},
+          {"slot": "Pranzo", "title": "Gulasch Ungherese Fit", "ingredients": [{"name": "Manzo magro", "amount": "200g"}, {"name": "Paprika", "amount": "q.b."}, {"name": "Passata di pomodoro", "amount": "100g"}, {"name": "Patate lesse", "amount": "200g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Coppa Fresca Yogurt e Whey", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Proteine whey biscotto", "amount": "25g"}, {"name": "Mandorle", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Burger di Manzo Fatto in Casa", "ingredients": [{"name": "Macinato di manzo", "amount": "200g"}, {"name": "Pane per burger", "amount": "1 pz"}, {"name": "Insalata e pomodoro", "amount": "q.b."}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino Mele e Cannella", "ingredients": ["Farina d'avena (55g)", "Mela (80g)", "Uovo (1)", "Cannella e lievito"]},
-          {"slot": "Pranzo", "title": "Pasta con Ragù Classico", "ingredients": ["Pasta (100g)", "Macinato di manzo (160g)", "Pomodoro (150g)", "Parmigiano (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Cacao", "ingredients": ["Crema di riso (50g)", "Cacao (10g)", "Whey (25g)", "Latte caldo (250ml)"]},
-          {"slot": "Cena", "title": "Pizza Fatta in Casa", "ingredients": ["Farina Molino Vigevano Vesuvio (180g)", "Mozzarella (100g)", "Pomodoro (90g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Tortino Mele e Cannella", "ingredients": [{"name": "Farina d'avena", "amount": "55g"}, {"name": "Mela", "amount": "80g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Cannella e lievito", "amount": "q.b."}]},
+          {"slot": "Pranzo", "title": "Pasta con Ragù Classico", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Macinato di manzo", "amount": "160g"}, {"name": "Pomodoro", "amount": "150g"}, {"name": "Parmigiano", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Cacao", "ingredients": [{"name": "Crema di riso", "amount": "50g"}, {"name": "Cacao", "amount": "10g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Latte caldo", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Pizza Fatta in Casa", "ingredients": [{"name": "Farina Molino Vigevano Vesuvio", "amount": "180g"}, {"name": "Mozzarella", "amount": "100g"}, {"name": "Pomodoro", "amount": "90g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle Dolce alla Vaniglia", "ingredients": ["Farina d'avena (60g)", "Albume (120ml)", "Lievito", "Miele (20g)"]},
-          {"slot": "Pranzo", "title": "Pollo ai Funghi e Riso", "ingredients": ["Pollo (200g)", "Funghi porcini (100g)", "Riso basmati (100g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Banana e Cioccolato", "ingredients": ["Banana (100g)", "Whey cioccolato (30g)", "Latte (200ml)", "Crema d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale e Patate", "ingredients": ["Maiale (200g)", "Patate novelle (220g)", "Olio evo (15g)", "Verdure"]}
+          {"slot": "Colazione", "title": "Waffle Dolce alla Vaniglia", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Albume", "amount": "120ml"}, {"name": "Lievito", "amount": "q.b."}, {"name": "Miele", "amount": "20g"}]},
+          {"slot": "Pranzo", "title": "Pollo ai Funghi e Riso", "ingredients": [{"name": "Pollo", "amount": "200g"}, {"name": "Funghi porcini", "amount": "100g"}, {"name": "Riso basmati", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Smoothie Banana e Cioccolato", "ingredients": [{"name": "Banana", "amount": "100g"}, {"name": "Proteine whey cioccolato", "amount": "30g"}, {"name": "Latte", "amount": "200ml"}, {"name": "Crema d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Bistecca di Maiale e Patate", "ingredients": [{"name": "Maiale", "amount": "200g"}, {"name": "Patate novelle", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Verdure", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Super Cioccolatoso", "ingredients": ["Farina d'avena (60g)", "Cacao (10g)", "Albumi (150ml)", "Yogurt (80g)", "Cioccolato (15g)"]},
-          {"slot": "Pranzo", "title": "Straccetti di Manzo e Rucola", "ingredients": ["Straccetti di manzo (180g)", "Rucola e pomodorini (100g)", "Olio evo (15g)", "Pane (50g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Caffè", "ingredients": ["Farina d'avena (45g)", "Caffè espresso (1 tazzina)", "Albume (50ml)", "Whey vaniglia (20g)"]},
-          {"slot": "Cena", "title": "Salmone con Zucchine", "ingredients": ["Salmone (200g)", "Zucchine (250g)", "Olio evo (10g)", "Pane integrale (40g)"]}
+          {"slot": "Colazione", "title": "Pancake Super Cioccolatoso", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Cacao", "amount": "10g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Yogurt", "amount": "80g"}, {"name": "Cioccolato", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Straccetti di Manzo e Rucola", "ingredients": [{"name": "Straccetti di manzo", "amount": "180g"}, {"name": "Rucola e pomodorini", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Caffè", "ingredients": [{"name": "Farina d'avena", "amount": "45g"}, {"name": "Caffè espresso", "amount": "1 tazzina"}, {"name": "Albume", "amount": "50ml"}, {"name": "Proteine whey vaniglia", "amount": "20g"}]},
+          {"slot": "Cena", "title": "Salmone con Zucchine", "ingredients": [{"name": "Salmone", "amount": "200g"}, {"name": "Zucchine", "amount": "250g"}, {"name": "Olio evo", "amount": "10g"}, {"name": "Pane integrale", "amount": "40g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Over-Night", "ingredients": ["Fiocchi d'avena (60g)", "Yogurt greco (120g)", "Latte (100ml)", "Mirtilli (60g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale con Pollo", "ingredients": ["Pasta integrale (100g)", "Pollo a pezzetti (160g)", "Zucchine julienne (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Mandorle", "ingredients": ["Crema di riso (50g)", "Whey (25g)", "Acqua calda (250ml)", "Mandorle (15g)"]},
-          {"slot": "Cena", "title": "Maiale al Limone con Patate", "ingredients": ["Lombo di maiale (200g)", "Succo di limone", "Patate (220g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Porridge Over-Night", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Yogurt greco", "amount": "120g"}, {"name": "Latte", "amount": "100ml"}, {"name": "Mirtilli", "amount": "60g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale con Pollo", "ingredients": [{"name": "Pasta integrale", "amount": "100g"}, {"name": "Pollo a pezzetti", "amount": "160g"}, {"name": "Zucchine julienne", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso e Mandorle", "ingredients": [{"name": "Crema di riso", "amount": "50g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Acqua calda", "amount": "250ml"}, {"name": "Mandorle", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Maiale al Limone con Patate", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Succo di limone", "amount": "q.b."}, {"name": "Patate", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       }
     ]
@@ -553,58 +1063,58 @@
     "days": [
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Proteico Finale", "ingredients": ["Avena (60g)", "Albumi (150ml)", "Yogurt (100g)", "Cioccolato (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta e Manzo", "ingredients": ["Pasta (100g)", "Manzo (180g)", "Olio evo (15g)", "Pomodorini"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Budino Proteico Fit", "ingredients": ["Yogurt greco (200g)", "Whey (25g)", "Frutti di bosco (80g)"]},
-          {"slot": "Cena", "title": "Maiale e Patate", "ingredients": ["Lombo di maiale (200g)", "Patate (250g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Pancake Proteico Finale", "ingredients": [{"name": "Avena", "amount": "60g"}, {"name": "Albumi", "amount": "150ml"}, {"name": "Yogurt", "amount": "100g"}, {"name": "Cioccolato", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta e Manzo", "ingredients": [{"name": "Pasta di semola", "amount": "100g"}, {"name": "Manzo", "amount": "180g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pomodorini", "amount": "50g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Budino Proteico Fit", "ingredients": [{"name": "Yogurt greco", "amount": "200g"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Frutti di bosco", "amount": "80g"}]},
+          {"slot": "Cena", "title": "Maiale e Patate", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Patate", "amount": "250g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Tortino Mandorle e Cacao", "ingredients": ["Farina d'avena (50g)", "Cacao (15g)", "Uovo (1)", "Burro di mandorle (15g)"]},
-          {"slot": "Pranzo", "title": "Riso e Pollo", "ingredients": ["Riso basmati (100g)", "Pollo (200g)", "Peperoni (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Bowl Avena e Yogurt", "ingredients": ["Avena (50g)", "Yogurt magro (150g)", "Crema d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Tagliata e Verdure", "ingredients": ["Scamone (220g)", "Zucchine (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "Tortino Mandorle e Cacao", "ingredients": [{"name": "Farina d'avena", "amount": "50g"}, {"name": "Cacao", "amount": "15g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Burro di mandorle", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Riso e Pollo", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Pollo", "amount": "200g"}, {"name": "Peperoni", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Bowl Avena e Yogurt", "ingredients": [{"name": "Avena", "amount": "50g"}, {"name": "Yogurt magro", "amount": "150g"}, {"name": "Crema d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Tagliata e Verdure", "ingredients": [{"name": "Scamone", "amount": "220g"}, {"name": "Zucchine", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Porridge Vaniglia", "ingredients": ["Fiocchi d'avena (60g)", "Latte (200ml)", "Whey (25g)", "Mirtilli (50g)"]},
-          {"slot": "Pranzo", "title": "Quesadilla con Manzo", "ingredients": ["Tortillas (2)", "Manzo (180g)", "Formaggio light (40g)", "Salsa"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Plumcake allo Yogurt", "ingredients": ["Farina d'avena (50g)", "Albume (100ml)", "Yogurt (50g)"]},
-          {"slot": "Cena", "title": "Salmone e Patate Novelle", "ingredients": ["Salmone (200g)", "Patate novelle (200g)", "Olio evo (10g)"]}
+          {"slot": "Colazione", "title": "Porridge Vaniglia", "ingredients": [{"name": "Fiocchi d'avena", "amount": "60g"}, {"name": "Latte", "amount": "200ml"}, {"name": "Proteine whey", "amount": "25g"}, {"name": "Mirtilli", "amount": "50g"}]},
+          {"slot": "Pranzo", "title": "Quesadilla con Manzo", "ingredients": [{"name": "Tortillas", "amount": "2 pz"}, {"name": "Manzo", "amount": "180g"}, {"name": "Formaggio light", "amount": "40g"}, {"name": "Salsa", "amount": "q.b."}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Plumcake allo Yogurt", "ingredients": [{"name": "Farina d'avena", "amount": "50g"}, {"name": "Albume", "amount": "100ml"}, {"name": "Yogurt", "amount": "50g"}]},
+          {"slot": "Cena", "title": "Salmone e Patate Novelle", "ingredients": [{"name": "Salmone", "amount": "200g"}, {"name": "Patate novelle", "amount": "200g"}, {"name": "Olio evo", "amount": "10g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Waffle con Cioccolato", "ingredients": ["Farina d'avena (60g)", "Uovo (1)", "Albume (50ml)", "Crema proteica (15g)"]},
-          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù", "ingredients": ["Pasta integrale (100g)", "Macinato di manzo (160g)", "Pomodoro (150g)", "Olio evo (15g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso al Cacao", "ingredients": ["Crema di riso (50g)", "Whey (30g)", "Latte (250ml)"]},
-          {"slot": "Cena", "title": "Pan Pizza Alta Idratazione", "ingredients": ["Farina Molino Vigevano Vesuvio (180g)", "Mozzarella (100g)", "Pomodoro (80g)", "Olio evo (15g)"]}
+          {"slot": "Colazione", "title": "Waffle con Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "60g"}, {"name": "Uovo", "amount": "1 pz"}, {"name": "Albume", "amount": "50ml"}, {"name": "Crema proteica", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pasta Integrale al Ragù", "ingredients": [{"name": "Pasta integrale", "amount": "100g"}, {"name": "Macinato di manzo", "amount": "160g"}, {"name": "Pomodoro", "amount": "150g"}, {"name": "Olio evo", "amount": "15g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Crema di Riso al Cacao", "ingredients": [{"name": "Crema di riso", "amount": "50g"}, {"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}]},
+          {"slot": "Cena", "title": "Pan Pizza Alta Idratazione", "ingredients": [{"name": "Farina Molino Vigevano Vesuvio", "amount": "180g"}, {"name": "Mozzarella", "amount": "100g"}, {"name": "Pomodoro", "amount": "80g"}, {"name": "Olio evo", "amount": "15g"}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Coppa Avena e Ricotta", "ingredients": ["Avena (50g)", "Ricotta (100g)", "Miele (15g)", "Noci (15g)"]},
-          {"slot": "Pranzo", "title": "Pollo e Riso", "ingredients": ["Pollo (200g)", "Riso parboiled (100g)", "Olio evo (15g)", "Verdure"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Cioccolato", "ingredients": ["Farina d'avena (40g)", "Cacao (10g)", "Albume (60ml)", "Cioccolato (10g)"]},
-          {"slot": "Cena", "title": "Bistecca di Maiale", "ingredients": ["Maiale (200g)", "Olio evo (15g)", "Pane (60g)", "Insalata"]}
+          {"slot": "Colazione", "title": "Coppa Avena e Ricotta", "ingredients": [{"name": "Avena", "amount": "50g"}, {"name": "Ricotta", "amount": "100g"}, {"name": "Miele", "amount": "15g"}, {"name": "Noci", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Pollo e Riso", "ingredients": [{"name": "Pollo", "amount": "200g"}, {"name": "Riso parboiled", "amount": "100g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Verdure", "amount": "150g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Mug Cake al Cioccolato", "ingredients": [{"name": "Farina d'avena", "amount": "40g"}, {"name": "Cacao", "amount": "10g"}, {"name": "Albume", "amount": "60ml"}, {"name": "Cioccolato", "amount": "10g"}]},
+          {"slot": "Cena", "title": "Bistecca di Maiale", "ingredients": [{"name": "Maiale", "amount": "200g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "60g"}, {"name": "Insalata", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "Pancake Yogurt e Frutta", "ingredients": ["Farina d'avena (55g)", "Albumi (140ml)", "Yogurt greco (80g)", "Fragole (60g)"]},
-          {"slot": "Pranzo", "title": "Gnocchi al Ragù", "ingredients": ["Gnocchi (160g)", "Macinato di manzo (120g)", "Pomodoro (100g)", "Olio evo (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico", "ingredients": ["Whey (30g)", "Latte (250ml)", "Burro d'arachidi (15g)"]},
-          {"slot": "Cena", "title": "Tonno e Patate", "ingredients": ["Tonno (200g)", "Patate (220g)", "Olio evo (15g)", "Limone"]}
+          {"slot": "Colazione", "title": "Pancake Yogurt e Frutta", "ingredients": [{"name": "Farina d'avena", "amount": "55g"}, {"name": "Albumi", "amount": "140ml"}, {"name": "Yogurt greco", "amount": "80g"}, {"name": "Fragole", "amount": "60g"}]},
+          {"slot": "Pranzo", "title": "Gnocchi al Ragù", "ingredients": [{"name": "Gnocchi", "amount": "160g"}, {"name": "Macinato di manzo", "amount": "120g"}, {"name": "Pomodoro", "amount": "100g"}, {"name": "Olio evo", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Shake Proteico", "ingredients": [{"name": "Proteine whey", "amount": "30g"}, {"name": "Latte", "amount": "250ml"}, {"name": "Burro d'arachidi", "amount": "15g"}]},
+          {"slot": "Cena", "title": "Tonno e Patate", "ingredients": [{"name": "Tonno", "amount": "200g"}, {"name": "Patate", "amount": "220g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Limone", "amount": "q.b."}]}
         ]
       },
       {
         "meals": [
-          {"slot": "Colazione", "title": "French Toast Fit", "ingredients": ["Pane integrale (2 fette)", "Albume (80ml)", "Sciroppo d'acero (15g)"]},
-          {"slot": "Pranzo", "title": "Bowl Riso e Manzo", "ingredients": ["Riso basmati (100g)", "Straccetti di manzo (180g)", "Avocado (50g)", "Salsa di soia (10g)"]},
-          {"slot": "Spuntino / Post-Workout", "title": "Tortino in Tazza", "ingredients": ["Farina di riso (45g)", "Whey vaniglia (20g)", "Yogurt (40g)"]},
-          {"slot": "Cena", "title": "Arrosto di Maiale", "ingredients": ["Lombo di maiale (200g)", "Carote e finocchi (250g)", "Olio evo (15g)", "Pane (50g)"]}
+          {"slot": "Colazione", "title": "French Toast Fit", "ingredients": [{"name": "Pane integrale", "amount": "2 fette"}, {"name": "Albume", "amount": "80ml"}, {"name": "Sciroppo d'acero", "amount": "15g"}]},
+          {"slot": "Pranzo", "title": "Bowl Riso e Manzo", "ingredients": [{"name": "Riso basmati", "amount": "100g"}, {"name": "Straccetti di manzo", "amount": "180g"}, {"name": "Avocado", "amount": "50g"}, {"name": "Salsa di soia", "amount": "10g"}]},
+          {"slot": "Spuntino / Post-Workout", "title": "Tortino in Tazza", "ingredients": [{"name": "Farina di riso", "amount": "45g"}, {"name": "Proteine whey vaniglia", "amount": "20g"}, {"name": "Yogurt", "amount": "40g"}]},
+          {"slot": "Cena", "title": "Arrosto di Maiale", "ingredients": [{"name": "Lombo di maiale", "amount": "200g"}, {"name": "Carote e finocchi", "amount": "250g"}, {"name": "Olio evo", "amount": "15g"}, {"name": "Pane", "amount": "50g"}]}
         ]
       }
     ]
