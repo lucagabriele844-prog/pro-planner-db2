@@ -1,634 +1,614 @@
-[
-  {
-    "focusTitle": "Settimana 1: Ciclo Base Atleta & Ricette Fit",
-    "days": [
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Pancake Proteico d'Autore",
-            "ingredients": [
-              "Avena in fiocchi macinati (60g)",
-              "Albumi d'uovo (150ml)",
-              "Yogurt greco 0% (100g)",
-              "Cioccolato fondente 85% (20g)",
-              "Miele o sciroppo d'acero puro (10g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Pasta e Diaframma di Manzo",
-            "ingredients": [
-              "Pasta di semola di grano duro (100g)",
-              "Diaframma di manzo tagliato controfibra (180g)",
-              "Olio extravergine d'oliva (15g)",
-              "Pomodorini freschi e basilico"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Budino Proteico Fit ai Frutti di Bosco",
-            "ingredients": [
-              "Yogurt greco 0% (200g)",
-              "Proteine in polvere whey gusto vaniglia (25g)",
-              "Frutti di bosco surgelati (80g)",
-              "Granella di mandorle (10g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Maiale con Chimichurri e Patate",
-            "ingredients": [
-              "Lombo di maiale a fette (200g)",
-              "Chimichurri fatto in casa con paprika e prezzemolo",
-              "Patate al forno (250g)",
-              "Olio extravergine d'oliva (10g)"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Tortino Fit al Forno Cacao e Mandorle",
-            "ingredients": [
-              "Farina d'avena (50g)",
-              "Cacao amaro in polvere (15g)",
-              "Uovo intero (1)",
-              "Latte parzialmente scremato (80ml)",
-              "Burro di mandorle 100% (15g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Riso Basmati con Petto di Pollo Speziato",
-            "ingredients": [
-              "Riso basmati (100g)",
-              "Petto di pollo a cubetti (200g)",
-              "Peperoni e cipolla stufati",
-              "Olio extravergine d'oliva (15g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Bowl di Avena Fredda con Yogurt e Cioccolato",
-            "ingredients": [
-              "Avena istantanea (50g)",
-              "Yogurt bianco magro (150g)",
-              "Crema di arachidi 100% (20g)",
-              "Scaglie di cioccolato fondente (15g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Tagliata di Manzo con Verdure Grigliate",
-            "ingredients": [
-              "Filetto o scamone di manzo (220g)",
-              "Zucchine e melanzane grigliate (250g)",
-              "Olio extravergine d'oliva (15g)",
-              "Pane casereccio (50g)"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Porridge Cremoso Proteico alla Vaniglia",
-            "ingredients": [
-              "Fiocchi d'avena (60g)",
-              "Latte o bevanda vegetale (200ml)",
-              "Proteine in polvere whey (25g)",
-              "Cannella in polvere q.b.",
-              "Mirtilli freschi (50g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Quesadilla Proteica di Manzo",
-            "ingredients": [
-              "Tortillas di grano o mais (2)",
-              "Carne macinata magra di manzo (180g)",
-              "Formaggio light grattugiato (40g)",
-              "Salsa piccante o guacamole casalingo"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Plumcake Fit Proteico allo Yogurt",
-            "ingredients": [
-              "Farina d'avena o riso (50g)",
-              "Albume d'uovo (100ml)",
-              "Yogurt greco (50g)",
-              "Gocce di cioccolato fondente (15g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Trancio di Salmone al Forno con Patate",
-            "ingredients": [
-              "Filetto di salmone fresco (200g)",
-              "Patate novelle al forno (200g)",
-              "Olio extravergine d'oliva (10g)",
-              "Insalata verde mista con limone"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Waffle Fit Proteici con Cioccolato",
-            "ingredients": [
-              "Farina d'avena (60g)",
-              "Uovo intero (1)",
-              "Albume (50ml)",
-              "Lievito per dolci (un cucchiaino)",
-              "Crema spalmabile proteica o fondente (15g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Pasta Integrale al ragù di Manzo",
-            "ingredients": [
-              "Pasta integrale (100g)",
-              "Macinato scelto di manzo (160g)",
-              "Passata di pomodoro (150g)",
-              "Olio extravergine d'oliva (15g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Crema di Riso e Whey al Cacao",
-            "ingredients": [
-              "Crema di riso istantanea (50g)",
-              "Acqua o latte caldo (250ml)",
-              "Proteine whey al cioccolato (30g)",
-              "Mandorle tostate spezzettate (15g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Pan Pizza ad Alta Idratazione (Specialità)",
-            "ingredients": [
-              "Farina Molino Vigevano Vesuvio (180g)",
-              "Mozzatura fior di latte o vegan (100g)",
-              "Passata di pomodoro condita (80g)",
-              "Olio extravergine d'oliva (15g)"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Coppa Energetica Avena e Ricotta",
-            "ingredients": [
-              "Avena in fiocchi (50g)",
-              "Ricotta fresca vaccina (100g)",
-              "Miele (15g)",
-              "Noci in gherigli (15g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Petto di Pollo alla Piastra con Riso",
-            "ingredients": [
-              "Petto di pollo marinato al limone (200g)",
-              "Riso parboiled (100g)",
-              "Olio extravergine d'oliva (15g)",
-              "Verdure miste al vapore"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Mug Cake Fit al Cioccolato Fondente",
-            "ingredients": [
-              "Farina d'avena (40g)",
-              "Cacao amaro (10g)",
-              "Albume (60ml)",
-              "Latte (30ml)",
-              "Un quadratino di cioccolato fondente al centro (10g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Bistecca di Maiale ai Ferri con Insalata",
-            "ingredients": [
-              "Bistecca di maiale magra (200g)",
-              "Olio extravergine d'oliva (15g)",
-              "Pane di semola (60g)",
-              "Insalata iceberg e pomodori"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Pancake Morbido con Yogurt e Frutta",
-            "ingredients": [
-              "Farina d'avena (55g)",
-              "Albumi (140ml)",
-              "Yogurt greco per farcire (80g)",
-              "Fragole o mirtilli freschi (60g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Gnocchi di Patate fatti in casa al Sugo",
-            "ingredients": [
-              "Gnocchi freschi di patate (160g)",
-              "Macinato di manzo magro (120g)",
-              "Salsa di pomodoro fresco (100g)",
-              "Olio evo (10g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Shake Proteico ad Alto Potere Saziante",
-            "ingredients": [
-              "Proteine in polvere (30g)",
-              "Latte parzialmente scremato (250ml)",
-              "Burro d'arachidi (15g)",
-              "Ghiaccio q.b."
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Trancio di Tonno alla Griglia con Patate",
-            "ingredients": [
-              "Trancio di tonno fresco (200g)",
-              "Patate lesse o al forno (220g)",
-              "Olio evo (15g)",
-              "Prezzemolo e scorza di limone"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "French Toast Fit Proteico",
-            "ingredients": [
-              "Pane in cassetta integrale o di segale (2 fette)",
-              "Albume d'uovo (80ml)",
-              "Cannella e dolcificante q.b.",
-              "Sciroppo d'acero zero o miele (15g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Bowl di Riso, Manzo e Avocado",
-            "ingredients": [
-              "Riso basmati cotto (100g a crudo)",
-              "Straccetti di manzo saltati (180g)",
-              "Avocado fresco (50g)",
-              "Salsa di soia a ridotto contenuto di sodio (10g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Tortino in Tazza Proteico alla Vaniglia",
-            "ingredients": [
-              "Farina di riso o avena (45g)",
-              "Proteine whey vaniglia (20g)",
-              "Yogurt greco (40g)",
-              "Latte (40ml)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Arrosto di Lombo di Maiale con Verdure",
-            "ingredients": [
-              "Lombo di maiale al forno (200g)",
-              "Carote e finocchi al forno (250g)",
-              "Olio extravergine d'oliva (15g)",
-              "Pane casereccio (50g)"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "focusTitle": "Settimana 2: Ricette Avanzate & Variazioni Golose",
-    "days": [
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Pancake Ciococco, Avena e Mandorle",
-            "ingredients": [
-              "Farina d'avena aromatizzata al cioccolato (60g)",
-              "Albumi (150ml)",
-              "Crema di mandorle bianca (15g)",
-              "Cioccolato fondente 85% (15g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Pasta al Ragu Bianco di Maiale e Rosmarino",
-            "ingredients": [
-              "Pasta di semola (100g)",
-              "Macinato magro di maiale (180g)",
-              "Rosmarino, aglio e vino bianco per sfumare",
-              "Olio evo (15g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Budino Proteico Light al Caffè",
-            "ingredients": [
-              "Yogurt greco 0% (200g)",
-              "Caffè espresso zuccherato o amaro (1 tazzina)",
-              "Proteine in polvere whey gusto caffè o neutre (25g)",
-              "Cioccolato fondente grattugiato (10g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Tagliata di Diaframma con Chimichurri",
-            "ingredients": [
-              "Diaframma di manzo (200g)",
-              "Chimichurri fresco con prezzemolo, aglio e paprika",
-              "Verdure grigliate miste (250g)",
-              "Olio evo (15g)"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Porridge Caldo e Cremoso con Burro d'Arachidi",
-            "ingredients": [
-              "Fiocchi d'avena (60g)",
-              "Latte parzialmente scremato (220ml)",
-              "Burro d'arachidi 100% (20g)",
-              "Banana a fettine (80g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Riso Saltato con Pollo e Verdure Orientali",
-            "ingredients": [
-              "Riso basmati (100g)",
-              "Petto di pollo a striscioline (200g)",
-              "Mix di verdure (zucchine, carote, germogli di soia) (150g)",
-              "Olio di sesamo o evo (15g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Muffin Fit al Cacao Senza Burro",
-            "ingredients": [
-              "Farina d'avena (50g)",
-              "Cacao amaro (15g)",
-              "Albume (100ml)",
-              "Yogurt magro (50g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Filetto di Maiale in Crosta di Spezie",
-            "ingredients": [
-              "Filetto di maiale (200g)",
-              "Patate dolci al forno (220g)",
-              "Olio evo (15g)",
-              "Insalata verde fresca"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Pancake di Riso e Albume con Frutti di Bosco",
-            "ingredients": [
-              "Farina di riso (60g)",
-              "Albumi (150ml)",
-              "Miele (15g)",
-              "Frutti di bosco freschi (50g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Gulasch Ungherese Fit con Polenta o Patate",
-            "ingredients": [
-              "Carne di manzo magra a bocconcini (200g)",
-              "Paprika dolce e affumicata abbondante",
-              "Cipolle e passata di pomodoro (100g)",
-              "Patate lesse (200g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Coppa Fresca Yogurt, Whey e Mandorle",
-            "ingredients": [
-              "Yogurt greco 0% (200g)",
-              "Proteine whey gusto biscotto o vaniglia (25g)",
-              "Mandorle pelate (15g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Burger di Manzo Fatto in Casa con Pane",
-            "ingredients": [
-              "Carne macinata scelta di manzo (200g)",
-              "Pane per burger artigianale (1 pz)",
-              "Insalata, pomodoro e cetrioli",
-              "Olio evo (10g)"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Tortino Fit al Forno con Mele e Cannella",
-            "ingredients": [
-              "Farina d'avena (55g)",
-              "Mela grattugiata nell'impasto (80g)",
-              "Uovo intero (1)",
-              "Cannella e lievito",
-              "Gocce di cioccolato fondente (10g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Pasta con Ragù Classico di Manzo e Parmigiano",
-            "ingredients": [
-              "Pasta di semola (100g)",
-              "Macinato magro di manzo (160g)",
-              "Pomodoro pelato (150g)",
-              "Parmigiano Reggiano grattugiato (15g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Crema Budino di Riso e Cacao",
-            "ingredients": [
-              "Crema di riso istantanea (50g)",
-              "Cacao amaro (10g)",
-              "Proteine whey (25g)",
-              "Acqua o latte caldo (250ml)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Pizza Fatta in Casa ad Alta Idratazione",
-            "ingredients": [
-              "Farina Molino Vigevano Vesuvio (180g)",
-              "Mozzarella fior di latte (100g)",
-              "Pomodoro pelato condito (90g)",
-              "Olio extravergine d'oliva (15g)"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Waffle Dolce alla Vaniglia con Miele",
-            "ingredients": [
-              "Farina d'avena (60g)",
-              "Albume (120ml)",
-              "Lievito per dolci",
-              "Miele puro (20g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Petto di Pollo ai Funghi Porcini e Riso",
-            "ingredients": [
-              "Petto di pollo a fette (200g)",
-              "Funghi porcini trifolati (100g)",
-              "Riso basmati (100g)",
-              "Olio evo (15g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Smoothie Cremoso Proteico Banana e Cioccolato",
-            "ingredients": [
-              "Banana congelata (100g)",
-              "Proteine in polvere cioccolato (30g)",
-              "Latte o bevanda vegetale (200ml)",
-              "Crema d'arachidi (15g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Bistecca di Maiale con Patate al Forno",
-            "ingredients": [
-              "Bistecca di maiale (200g)",
-              "Patate novelle al forno (220g)",
-              "Olio evo (15g)",
-              "Verdure fresche di stagione"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Pancake Super Cioccolatoso Post-Workout",
-            "ingredients": [
-              "Farina d'avena (60g)",
-              "Cacao amaro (10g)",
-              "Albumi (150ml)",
-              "Yogurt greco (80g)",
-              "Cioccolato fondente 85% (15g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Straccetti di Manzo con Rucola e Pomodorini",
-            "ingredients": [
-              "Straccetti di manzo (180g)",
-              "Rucola fresca e pomodorini (100g)",
-              "Olio evo (15g)",
-              "Pane casereccio (50g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Mug Cake Fit Proteico al Caffè",
-            "ingredients": [
-              "Farina d'avena (45g)",
-              "Caffè espresso (1 tazzina)",
-              "Albume (50ml)",
-              "Proteine whey vaniglia (20g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Filetto di Salmone con Zucchine",
-            "ingredients": [
-              "Salmone fresco (200g)",
-              "Zucchine saltate in padella (250g)",
-              "Olio evo (10g)",
-              "Pane integrale (40g)"
-            ]
-          }
-        ]
-      },
-      {
-        "meals": [
-          {
-            "slot": "Colazione",
-            "title": "Porridge Freddo Over-Night con Yogurt e Frutta",
-            "ingredients": [
-              "Fiocchi d'avena (60g)",
-              "Yogurt greco (120g)",
-              "Latte (100ml)",
-              "Frutti di bosco o mirtilli freschi (60g)"
-            ]
-          },
-          {
-            "slot": "Pranzo",
-            "title": "Pasta Integrale con Pollo e Zucchine",
-            "ingredients": [
-              "Pasta integrale (100g)",
-              "Petto di pollo a pezzetti (160g)",
-              "Zucchine julienne (150g)",
-              "Olio evo (15g)"
-            ]
-          },
-          {
-            "slot": "Spuntino / Post-Workout",
-            "title": "Crema di Riso Dolce con Mandorle",
-            "ingredients": [
-              "Crema di riso (50g)",
-              "Proteine whey (25g)",
-              "Acqua calda (250ml)",
-              "Mandorle tritate (15g)"
-            ]
-          },
-          {
-            "slot": "Cena",
-            "title": "Maiale al Limone con Contorno di Patate",
-            "ingredients": [
-              "Lombo di maiale (200g)",
-              "Succo di limone e scorza grattugiata",
-              "Patate lesse o al forno (220g)",
-              "Olio evo (15g)"
-            ]
-          }
-        ]
-      }
-    ]
+import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'dart:convert';
+
+void main() {
+  runApp(const ProPlannerApp());
+}
+
+class AppColors {
+  static const Color background = Color(0xFF070913);
+  static const Color surface = Color(0xFF131B2E);
+  static const Color surfaceLight = Color(0xFF1E293B);
+  static const Color primary = Color(0xFF2563EB);
+  static const Color primaryGlow = Color(0xFF60A5FA);
+  static const Color accentNeon = Color(0xFF06B6D4);
+  static const Color textLight = Color(0xFFF8FAFC);
+  static const Color textMuted = Color(0xFF94A3B8);
+  static const Color accentGreen = Color(0xFF10B981);
+  static const Color accentOrange = Color(0xFFF59E0B);
+}
+
+class ProPlannerApp extends StatelessWidget {
+  const ProPlannerApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'HUD Spesa & Dieta Pro',
+      themeMode: ThemeMode.dark,
+      darkTheme: ThemeData(
+        useMaterial3: true,
+        brightness: Brightness.dark,
+        scaffoldBackgroundColor: AppColors.background,
+        colorScheme: const ColorScheme.dark(
+          primary: AppColors.primary,
+          surface: AppColors.surface,
+          onSurface: AppColors.textLight,
+        ),
+        cardTheme: const CardThemeData(
+          color: AppColors.surface,
+          elevation: 3,
+          shadowColor: Colors.black87,
+        ),
+      ),
+      home: const AvatarSelectionScreen(),
+      debugShowCheckedModeBanner: false,
+    );
   }
-]
+}
+
+class AvatarSelectionScreen extends StatefulWidget {
+  const AvatarSelectionScreen({super.key});
+
+  @override
+  State<AvatarSelectionScreen> createState() => _AvatarSelectionScreenState();
+}
+
+class _AvatarSelectionScreenState extends State<AvatarSelectionScreen> {
+  String _selectedAvatar = 'Atleta Pro';
+  late final TextEditingController _calController;
+
+  @override
+  void initState() {
+    super.initState();
+    _calController = TextEditingController(text: '2800');
+  }
+
+  @override
+  void dispose() {
+    _calController.dispose();
+    super.dispose();
+  }
+
+  void _navigateToMainHud() {
+    final caloriesText = _calController.text.trim();
+    if (caloriesText.isEmpty) return;
+
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(
+        builder: (context) => MainHudScreen(
+          avatarName: _selectedAvatar,
+          calories: caloriesText,
+        ),
+      ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: SafeArea(
+        child: Center(
+          child: SingleChildScrollView(
+            padding: const EdgeInsets.all(24.0),
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: 420),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Container(
+                    padding: const EdgeInsets.all(22),
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(
+                        colors: [AppColors.primary.withValues(alpha: 0.3), AppColors.surface],
+                        begin: Alignment.topLeft,
+                        end: Alignment.bottomRight,
+                      ),
+                      shape: BoxShape.circle,
+                      border: Border.all(color: AppColors.primaryGlow.withValues(alpha: 0.5), width: 2),
+                      boxShadow: [BoxShadow(color: AppColors.primary.withValues(alpha: 0.2), blurRadius: 20)],
+                    ),
+                    child: const Icon(Icons.hub_outlined, size: 52, color: AppColors.primaryGlow),
+                  ),
+                  const SizedBox(height: 24),
+                  const Text(
+                    'SISTEMA TATTICO NUTRIZIONALE',
+                    style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold, letterSpacing: 3, color: AppColors.accentNeon),
+                  ),
+                  const SizedBox(height: 32),
+                  Row(
+                    children: [
+                      Expanded(child: _buildAvatarCard('Atleta Pro', Icons.flash_on)),
+                      const SizedBox(width: 16),
+                      Expanded(child: _buildAvatarCard('Hypertrophy', Icons.fitness_center)),
+                    ],
+                  ),
+                  const SizedBox(height: 24),
+                  TextField(
+                    controller: _calController,
+                    keyboardType: TextInputType.number,
+                    style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16, color: Colors.white),
+                    decoration: InputDecoration(
+                      labelText: 'Fabbisogno Calorico Base (kcal)',
+                      labelStyle: const TextStyle(color: AppColors.textMuted, fontSize: 14),
+                      filled: true,
+                      fillColor: AppColors.surface,
+                      border: OutlineInputBorder(borderRadius: BorderRadius.circular(16), borderSide: BorderSide.none),
+                      enabledBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(16), borderSide: BorderSide(color: Colors.white.withValues(alpha: 0.05))),
+                      focusedBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(16), borderSide: const BorderSide(color: AppColors.accentNeon, width: 1.5)),
+                      prefixIcon: const Icon(Icons.local_fire_department, color: AppColors.accentOrange),
+                    ),
+                  ),
+                  const SizedBox(height: 32),
+                  SizedBox(
+                    width: double.infinity,
+                    height: 54,
+                    child: ElevatedButton(
+                      onPressed: _navigateToMainHud,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: AppColors.primary,
+                        foregroundColor: Colors.white,
+                        elevation: 6,
+                        shadowColor: AppColors.primary.withValues(alpha: 0.6),
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+                      ),
+                      child: const Text('AVVIA HUD OPERATIVO', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold, letterSpacing: 1.2)),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildAvatarCard(String name, IconData icon) {
+    bool isSelected = _selectedAvatar == name;
+    return GestureDetector(
+      onTap: () => setState(() => _selectedAvatar = name),
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 250),
+        curve: Curves.easeInOut,
+        padding: const EdgeInsets.symmetric(vertical: 22, horizontal: 16),
+        decoration: BoxDecoration(
+          gradient: isSelected
+              ? const LinearGradient(colors: [AppColors.primary, Color(0xFF1D4ED8)], begin: Alignment.topLeft, end: Alignment.bottomRight)
+              : const LinearGradient(colors: [AppColors.surface, AppColors.surfaceLight], begin: Alignment.topLeft, end: Alignment.bottomRight),
+          borderRadius: BorderRadius.circular(18),
+          border: Border.all(color: isSelected ? AppColors.accentNeon : Colors.white.withValues(alpha: 0.05)),
+          boxShadow: isSelected ? [BoxShadow(color: AppColors.primary.withValues(alpha: 0.5), blurRadius: 14, offset: const Offset(0, 4))] : [],
+        ),
+        child: Column(
+          children: [
+            Icon(icon, size: 36, color: isSelected ? Colors.white : AppColors.textMuted),
+            const SizedBox(height: 12),
+            Text(name, style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13, color: isSelected ? Colors.white : AppColors.textMuted)),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class MainHudScreen extends StatefulWidget {
+  final String avatarName;
+  final String calories;
+
+  const MainHudScreen({super.key, required this.avatarName, required this.calories});
+
+  @override
+  State<MainHudScreen> createState() => _MainHudScreenState();
+}
+
+class _MainHudScreenState extends State<MainHudScreen> {
+  int _currentTabIndex = 0;
+  int _activeWeekIndex = 0;
+  int _selectedDayIndex = 0;
+  bool _isTrainingDayON = true;
+  
+  final List<String> _daysOfWeek = ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica"];
+  late Future<List<WeekData>> _futureDatabase;
+
+  @override
+  void initState() {
+    super.initState();
+    _futureDatabase = fetchRemoteDatabase();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return FutureBuilder<List<WeekData>>(
+      future: _futureDatabase,
+      builder: (context, snapshot) {
+        if (snapshot.connectionState == ConnectionState.waiting) {
+          return const Scaffold(
+            body: Center(child: CircularProgressIndicator(color: AppColors.accentNeon)),
+          );
+        } else if (snapshot.hasError) {
+          return Scaffold(
+            body: Center(child: Text('Errore di connessione: ${snapshot.error}')),
+          );
+        } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
+          return const Scaffold(
+            body: Center(child: Text('Nessun dato disponibile sul cloud.')),
+          );
+        }
+
+        final database = snapshot.data!;
+        return _buildActualHud(database);
+      },
+    );
+  }
+
+  Widget _buildActualHud(List<WeekData> database) {
+    final activeWeek = database[_activeWeekIndex];
+    final int baseCalories = int.tryParse(widget.calories) ?? 2800;
+    final int adjustedCalories = _isTrainingDayON ? baseCalories : baseCalories - 400;
+
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: AppColors.surface,
+        elevation: 0,
+        leading: IconButton(
+          icon: const Icon(Icons.switch_account, color: AppColors.accentNeon),
+          tooltip: 'Cambia Profilo',
+          onPressed: () => Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (context) => const AvatarSelectionScreen()),
+          ),
+        ),
+        title: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(widget.avatarName, style: const TextStyle(fontSize: 10, fontWeight: FontWeight.bold, color: AppColors.accentNeon, letterSpacing: 1.2)),
+            Text('$adjustedCalories kcal Target (${_isTrainingDayON ? "ON Training" : "OFF Rest"})', style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w700)),
+          ],
+        ),
+        actions: [
+          Padding(
+            padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 4.0),
+            child: InkWell(
+              onTap: () => setState(() => _isTrainingDayON = !_isTrainingDayON),
+              borderRadius: BorderRadius.circular(10),
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 10),
+                decoration: BoxDecoration(
+                  color: _isTrainingDayON ? AppColors.accentGreen.withValues(alpha: 0.2) : AppColors.accentOrange.withValues(alpha: 0.2),
+                  borderRadius: BorderRadius.circular(10),
+                  border: Border.all(color: _isTrainingDayON ? AppColors.accentGreen : AppColors.accentOrange, width: 1),
+                ),
+                child: Center(
+                  child: Text(
+                    _isTrainingDayON ? 'ON' : 'OFF',
+                    style: TextStyle(
+                      color: _isTrainingDayON ? AppColors.accentGreen : AppColors.accentOrange,
+                      fontWeight: FontWeight.bold,
+                      fontSize: 11,
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.only(right: 12.0, left: 4.0),
+            child: TextButton.icon(
+              onPressed: () {
+                setState(() {
+                  _activeWeekIndex = (_activeWeekIndex + 1) % database.length;
+                  _selectedDayIndex = 0;
+                });
+              },
+              icon: const Icon(Icons.sync, size: 16, color: AppColors.accentNeon),
+              label: Text('W${_activeWeekIndex + 1}/${database.length}', style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
+              style: TextButton.styleFrom(
+                foregroundColor: Colors.white,
+                backgroundColor: AppColors.primary.withValues(alpha: 0.2),
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+              ),
+            ),
+          )
+        ],
+      ),
+      body: _currentTabIndex == 0 ? _buildSettimanaTab(activeWeek) : _buildSpesaTab(activeWeek, database),
+      bottomNavigationBar: Container(
+        decoration: BoxDecoration(
+          color: AppColors.surface,
+          border: Border(top: BorderSide(color: Colors.white.withValues(alpha: 0.05))),
+        ),
+        child: NavigationBar(
+          selectedIndex: _currentTabIndex,
+          onDestinationSelected: (int index) => setState(() => _currentTabIndex = index),
+          backgroundColor: Colors.transparent,
+          indicatorColor: AppColors.primary.withValues(alpha: 0.3),
+          destinations: const [
+            NavigationDestination(icon: Icon(Icons.calendar_view_week_outlined), selectedIcon: Icon(Icons.calendar_view_week, color: AppColors.accentNeon), label: 'Programma'),
+            NavigationDestination(icon: Icon(Icons.shopping_bag_outlined), selectedIcon: Icon(Icons.shopping_bag, color: AppColors.accentNeon), label: 'Spesa Unificata'),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildSettimanaTab(WeekData week) {
+    final safeDayIndex = _selectedDayIndex.clamp(0, week.days.length - 1);
+    final todayMeals = week.days[safeDayIndex].meals;
+
+    return Column(
+      children: [
+        Container(
+          padding: const EdgeInsets.symmetric(vertical: 12),
+          decoration: BoxDecoration(
+            color: AppColors.surface.withValues(alpha: 0.6),
+            border: Border(bottom: BorderSide(color: Colors.white.withValues(alpha: 0.03))),
+          ),
+          child: SingleChildScrollView(
+            scrollDirection: Axis.horizontal,
+            padding: const EdgeInsets.symmetric(horizontal: 16),
+            child: Row(
+              children: List.generate(_daysOfWeek.length, (index) {
+                bool isSelected = index == _selectedDayIndex;
+                return GestureDetector(
+                  onTap: () => setState(() => _selectedDayIndex = index),
+                  child: AnimatedContainer(
+                    duration: const Duration(milliseconds: 200),
+                    margin: const EdgeInsets.only(right: 8),
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      gradient: isSelected
+                          ? const LinearGradient(colors: [AppColors.primary, Color(0xFF1D4ED8)])
+                          : null,
+                      color: isSelected ? null : AppColors.background,
+                      borderRadius: BorderRadius.circular(12),
+                      border: Border.all(color: isSelected ? AppColors.accentNeon : Colors.white.withValues(alpha: 0.05)),
+                    ),
+                    child: Text(
+                      _daysOfWeek[index],
+                      style: TextStyle(
+                        color: isSelected ? Colors.white : AppColors.textMuted,
+                        fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                        fontSize: 13,
+                      ),
+                    ),
+                  ),
+                );
+              }),
+            ),
+          ),
+        ),
+        Expanded(
+          child: ListView.builder(
+            padding: const EdgeInsets.all(16),
+            itemCount: todayMeals.length,
+            itemBuilder: (context, index) {
+              return MealCard(
+                meal: todayMeals[index],
+                isTrainingDay: _isTrainingDayON,
+              );
+            },
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildSpesaTab(WeekData week, List<WeekData> database) {
+    Set<String> uniqueIngredients = {};
+    for (var day in week.days) {
+      for (var meal in day.meals) {
+        for (var ing in meal.ingredients) {
+          // Rimuove grammature e millilitri tra parentesi (es. "(60g)", "(150ml)") per la lista spesa
+          String cleanIng = ing.replaceAll(RegExp(r'\s*\([^)]*\)'), '').trim();
+          if (cleanIng.isNotEmpty) {
+            uniqueIngredients.add(cleanIng);
+          }
+        }
+      }
+    }
+    List<String> spesaList = uniqueIngredients.toList()..sort();
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Container(
+          width: double.infinity,
+          padding: const EdgeInsets.all(16),
+          decoration: BoxDecoration(
+            color: AppColors.surface.withValues(alpha: 0.6),
+            border: Border(bottom: BorderSide(color: Colors.white.withValues(alpha: 0.03))),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text('BLOCCO SPESA • W${_activeWeekIndex + 1} (MATERIE PRIME)', style: const TextStyle(color: AppColors.accentNeon, fontWeight: FontWeight.bold, fontSize: 10, letterSpacing: 1.5)),
+              const SizedBox(height: 4),
+              Text(week.focusTitle, style: const TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Colors.white)),
+            ],
+          ),
+        ),
+        Expanded(
+          child: ListView.builder(
+            padding: const EdgeInsets.all(16),
+            itemCount: spesaList.length,
+            itemBuilder: (context, index) {
+              return SpesaCheckbox(itemName: spesaList[index]);
+            },
+          ),
+        ),
+      ],
+    );
+  }
+}
+
+class MealCard extends StatelessWidget {
+  final MealData meal;
+  final bool isTrainingDay;
+
+  const MealCard({super.key, required this.meal, required this.isTrainingDay});
+
+  @override
+  Widget build(BuildContext context) {
+    final displayedIngredients = meal.ingredients.map((ing) {
+      if (ing.contains("Pasta") || ing.contains("Riso") || ing.contains("Avena") || ing.contains("Pane") || ing.contains("Patate")) {
+        return isTrainingDay ? "$ing (Carico High)" : "$ing (Ridotto Low)";
+      }
+      return ing;
+    }).toList();
+
+    return Container(
+      margin: const EdgeInsets.only(bottom: 14),
+      decoration: BoxDecoration(
+        gradient: LinearGradient(
+          colors: [AppColors.surface, AppColors.surfaceLight.withValues(alpha: 0.6)],
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+        ),
+        borderRadius: BorderRadius.circular(18),
+        border: Border.all(color: Colors.white.withValues(alpha: 0.04)),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(18.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Text(
+                  meal.slot.toUpperCase(),
+                  style: const TextStyle(fontSize: 10, fontWeight: FontWeight.bold, color: AppColors.accentNeon, letterSpacing: 1.2),
+                ),
+                Container(
+                  padding: const EdgeInsets.all(6),
+                  decoration: BoxDecoration(
+                    color: AppColors.background,
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: const Icon(Icons.restaurant, size: 12, color: AppColors.textMuted),
+                ),
+              ],
+            ),
+            const SizedBox(height: 10),
+            Text(meal.title, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white)),
+            const SizedBox(height: 12),
+            ...displayedIngredients.map((ing) => Padding(
+              padding: const EdgeInsets.only(bottom: 5),
+              child: Row(
+                children: [
+                  Container(
+                    width: 4,
+                    height: 4,
+                    decoration: BoxDecoration(
+                      color: isTrainingDay ? AppColors.accentGreen : AppColors.accentOrange,
+                      shape: BoxShape.circle,
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  Text(ing, style: TextStyle(color: AppColors.textMuted, fontSize: 13)),
+                ],
+              ),
+            )),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class SpesaCheckbox extends StatefulWidget {
+  final String itemName;
+  const SpesaCheckbox({super.key, required this.itemName});
+
+  @override
+  State<SpesaCheckbox> createState() => _SpesaCheckboxState();
+}
+
+class _SpesaCheckboxState extends State<SpesaCheckbox> {
+  bool _isChecked = false;
+
+  @override
+  Widget build(BuildContext context) {
+    return AnimatedContainer(
+      duration: const Duration(milliseconds: 200),
+      margin: const EdgeInsets.only(bottom: 8),
+      decoration: BoxDecoration(
+        color: _isChecked ? AppColors.surface.withValues(alpha: 0.3) : AppColors.surface,
+        borderRadius: BorderRadius.circular(14),
+        border: Border.all(color: _isChecked ? Colors.transparent : Colors.white.withValues(alpha: 0.03)),
+      ),
+      child: CheckboxListTile(
+        title: Text(
+          widget.itemName,
+          style: TextStyle(
+            fontSize: 14,
+            decoration: _isChecked ? TextDecoration.lineThrough : null,
+            color: _isChecked ? AppColors.textMuted : Colors.white,
+            fontWeight: _isChecked ? FontWeight.normal : FontWeight.w500,
+          ),
+        ),
+        value: _isChecked,
+        activeColor: AppColors.primary,
+        checkColor: Colors.white,
+        checkboxShape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(4)),
+        onChanged: (bool? val) => setState(() => _isChecked = val ?? false),
+        controlAffinity: ListTileControlAffinity.leading,
+      ),
+    );
+  }
+}
+
+class MealData {
+  final String slot;
+  final String title;
+  final List<String> ingredients;
+  MealData(this.slot, this.title, this.ingredients);
+
+  factory MealData.fromJson(Map<String, dynamic> json) {
+    return MealData(
+      json['slot'] ?? '',
+      json['title'] ?? '',
+      List<String>.from(json['ingredients'] ?? []),
+    );
+  }
+}
+
+class DayData {
+  final List<MealData> meals;
+  DayData(this.meals);
+
+  factory DayData.fromJson(Map<String, dynamic> json) {
+    var mealsList = json['meals'] as List;
+    List<MealData> meals = mealsList.map((i) => MealData.fromJson(i)).toList();
+    return DayData(meals);
+  }
+}
+
+class WeekData {
+  final String focusTitle;
+  final List<DayData> days;
+  WeekData(this.focusTitle, this.days);
+
+  factory WeekData.fromJson(Map<String, dynamic> json) {
+    var daysList = json['days'] as List;
+    List<DayData> days = daysList.map((i) => DayData.fromJson(i)).toList();
+    return WeekData(
+      json['focusTitle'] ?? '',
+      days,
+    );
+  }
+}
+
+Future<List<WeekData>> fetchRemoteDatabase() async {
+  final response = await http.get(Uri.parse('https://raw.githubusercontent.com/lucagabriele844-prog/pro-planner-db2/refs/heads/main/databse.json.txt'));
+  
+  if (response.statusCode == 200) {
+    List<dynamic> body = json.decode(response.body);
+    return body.map((item) => WeekData.fromJson(item)).toList();
+  } else {
+    throw Exception('Impossibile caricare il piano nutrizionale dal cloud.');
+  }
+}
