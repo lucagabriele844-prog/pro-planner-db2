@@ -610,3 +610,33 @@
     ]
   }
 ]
+{
+  "slot": "Spuntino / Post-Workout",
+  "title": "Pancake Proteico d'Autore",
+  "ingredients": [
+    "Avena in fiocchi macinati (60g)",
+    "Albumi d'uovo (150ml)",
+    "Yogurt greco 0% (100g)",
+    "Cioccolato fondente 85% (20g)",
+    "Miele o sciroppo d'acero puro (10g)"
+  ]
+}{
+  "slot": "Colazione",
+  "title": "Tortino Fit al Forno Cacao e Mandorle",
+  "ingredients": [
+    "Farina d'avena (50g)",
+    "Cacao amaro in polvere (15g)",
+    "Uovo intero (1)",
+    "Latte parzialmente scremato o vegetale (80ml)",
+    "Burro di mandorle 100% (15g)"
+  ]
+}{
+  "slot": "Pre-Nanna / Sgarro Pulito",
+  "title": "Budino Proteico Fit",
+  "ingredients": [
+    "Yogurt greco 0% (200g)",
+    "Proteine in polvere whey gusto vaniglia o neutre (25g)",
+    "Frutti di bosco surgelati o freschi (80g)",
+    "Granella di mandorle o nocciole (10g)"
+  ]
+}
